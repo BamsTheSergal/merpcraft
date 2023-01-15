@@ -7,5 +7,5 @@ url = "https://github.com/BamsTheSergal/packwizpack123/blob/main/Essential-forge
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "f6e9c4d76ad7fa85282405089d32a07a231e77180a43c15bfe6ae4cd25197bad"
+hash-format = "sha1"
+hash = "6b64ff54a2b65f420b517e73ba655c507f647f1b"
