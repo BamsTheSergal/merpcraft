@@ -201,11 +201,6 @@ hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
 metafile = true
 
 [[files]]
-file = "mods/essential-forge.pw.toml"
-hash = "9b6ec7acef4f4a3b90dd2bfb463e3be4e70e0ad337603304c1f275feb5784898"
-metafile = true
-
-[[files]]
 file = "mods/everythingcopper.pw.toml"
 hash = "81e9d727ccb4f64c94b744a32a02544fbb2c2336d74f54bdc4bd103efa252503"
 metafile = true
