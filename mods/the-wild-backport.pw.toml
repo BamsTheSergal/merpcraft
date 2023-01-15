@@ -1,0 +1,13 @@
+name = "The Wild Backport"
+filename = "wildbackport-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c10f7b5190cff5292df06ad124b4e211e59b0d81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3988035
+project-id = 537901
