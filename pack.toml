@@ -1,0 +1,13 @@
+name = "Merpcraft 1"
+author = "Bamsy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "920fd3b8baffdc2db527cf687bb36f0394e3fa1afce847396180b4ceeb098735"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"
