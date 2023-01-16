@@ -321,11 +321,6 @@ hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
 metafile = true
 
 [[files]]
-file = "mods/jeitweaker.pw.toml"
-hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "704fa7a08739b7335304942b52ffd23eabb013f22896951b88ce4ad880b2718d"
 metafile = true
