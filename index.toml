@@ -126,6 +126,11 @@ hash = "336332dfb0f0053cbd37824add1dc547ab8a037d8bd22d9522d818f3e1b6a92d"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "dd7e2a0a687c397d5c8f574b2c6ede39ea077b940edaae055a4847b1a2e4121f"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "f4e3a51e946b16734f99bbbc3ce0334e53b01f7231deb5925f340b5f54fdfd50"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
@@ -573,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/recipe-gui.pw.toml"
+hash = "22bbbedb413d03df129718b5908d421f110243a22aaaee1d2ad87e4f8fd7d9e3"
 metafile = true
 
 [[files]]
