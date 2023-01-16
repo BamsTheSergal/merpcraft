@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d74e29ff52fc35b61762dc616724e88d62ab13dd95e79703a423789ea20022e9"
+hash = "3e0a8d29b7abafa2d5f558039840cde65da303aa77f679cae096920b83263576"
 metafile = true
 
 [[files]]
@@ -126,18 +126,13 @@ hash = "336332dfb0f0053cbd37824add1dc547ab8a037d8bd22d9522d818f3e1b6a92d"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "dd7e2a0a687c397d5c8f574b2c6ede39ea077b940edaae055a4847b1a2e4121f"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "f4e3a51e946b16734f99bbbc3ce0334e53b01f7231deb5925f340b5f54fdfd50"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "550373c6cde926832ea77f0d5e6fda708e37323468caca5a32d8ae9b88baeea7"
+hash = "c1ab5c64ac36cdc7b2ccea6f017580ef7a2bae38093a713f9c66ffd3820a1d74"
 metafile = true
 
 [[files]]
@@ -232,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "9e0ad54ad0766fce2609aebb53f9f4e3a4b67dab325990fb498ef178e933b7a5"
+hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
 metafile = true
 
 [[files]]
@@ -373,11 +368,6 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "4ee622e3a57f0b0e93878bd40dd33ea3e4bbb7eeb61f07bb678cc725f8bf0b5f"
-metafile = true
-
-[[files]]
-file = "mods/load-my-resources-forge.pw.toml"
-hash = "5cf99b4be5337e1d68f613b6d75bad610a12abfff71022da5511285bd84df8fd"
 metafile = true
 
 [[files]]
@@ -588,11 +578,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
-metafile = true
-
-[[files]]
-file = "mods/recipe-gui.pw.toml"
-hash = "22bbbedb413d03df129718b5908d421f110243a22aaaee1d2ad87e4f8fd7d9e3"
 metafile = true
 
 [[files]]
