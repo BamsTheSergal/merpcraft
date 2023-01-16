@@ -311,6 +311,11 @@ hash = "8870e6276bbb8dcfdc24b4f97ba2a972df0b48b5b514d10c96c913c773f7b9b1"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "eda374a4b08b44a4eaa6899977566bd1c88dbb1978190a6001df055faba5f7c2"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "95bb4e5153dc7c86dce16e067fbd8ff2c5d510cadc14b0fa641afc20bea1f405"
 metafile = true
@@ -368,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "4ee622e3a57f0b0e93878bd40dd33ea3e4bbb7eeb61f07bb678cc725f8bf0b5f"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources-forge.pw.toml"
+hash = "5cf99b4be5337e1d68f613b6d75bad610a12abfff71022da5511285bd84df8fd"
 metafile = true
 
 [[files]]
@@ -503,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "961a956df524c3509c02a21ad94d4220bfddd42f5242512a0910dce5fa8c75d8"
 metafile = true
 
 [[files]]
