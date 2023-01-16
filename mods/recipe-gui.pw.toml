@@ -1,0 +1,13 @@
+name = "Recipe GUI (Vanilla, CraftTweaker, KubeJS)"
+filename = "recipegui-1.18.2-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19c9948111407556fa30f88a05b69ed591d93473"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4109196
+project-id = 637442
