@@ -126,6 +126,11 @@ hash = "336332dfb0f0053cbd37824add1dc547ab8a037d8bd22d9522d818f3e1b6a92d"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "1d4cbe411ab2aa943d6f9ab878416b53ff9a683d395fb413f841579c5b470f39"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "f4e3a51e946b16734f99bbbc3ce0334e53b01f7231deb5925f340b5f54fdfd50"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/everythingcopper.pw.toml"
 hash = "81e9d727ccb4f64c94b744a32a02544fbb2c2336d74f54bdc4bd103efa252503"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
 metafile = true
 
 [[files]]
@@ -323,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "704fa7a08739b7335304942b52ffd23eabb013f22896951b88ce4ad880b2718d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
