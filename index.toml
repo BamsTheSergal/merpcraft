@@ -61,6 +61,11 @@ hash = "44b0e2e0ca1f254b9f43593a9bfd2802a6074200ad9a0fafa97b01e930940169"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "008b36574470fc126b01e473d0b9840269f17e18597fb619c2a1f01d275af63b"
+metafile = true
+
+[[files]]
 file = "mods/charging-gadgets.pw.toml"
 hash = "34d8f83ea97524fb28c4308ec4b557c215ab206106c02b54c4ca11b9555f764f"
 metafile = true
@@ -226,6 +231,11 @@ hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "aabf921df6c6895e3703f0159992521a413fb18e0b75b2f5da7bccc62ffb9194"
 metafile = true
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
+metafile = true
+
+[[files]]
+file = "mods/fix-experience-bug.pw.toml"
+hash = "ace65cf55382d75594f2b2429302dd19b8b53c37d1a805fb5a46a766d95d2229"
 metafile = true
 
 [[files]]
@@ -378,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "4ee622e3a57f0b0e93878bd40dd33ea3e4bbb7eeb61f07bb678cc725f8bf0b5f"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "7a27909655cd8ac42af80b47f95c6dfb05f102072b340198063ec8134cd7f778"
 metafile = true
 
 [[files]]
@@ -576,6 +596,11 @@ hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "9a495d7e040fc3aa0100fcbc89bba4c9d5c115c4b0a2b71a6dbbe23bd5c574e9"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
 metafile = true
@@ -613,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "2838a2626625d1740d7424e5e8a74ce41c99d991b93d3146a5f826a343604be4"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "b8e36189e8de79f382ee64c19413492e517fd4ca1f4fb9dd8efc09a05b2d16c1"
 metafile = true
 
 [[files]]
