@@ -601,6 +601,11 @@ hash = "9a495d7e040fc3aa0100fcbc89bba4c9d5c115c4b0a2b71a6dbbe23bd5c574e9"
 metafile = true
 
 [[files]]
+file = "mods/pocket-storage.pw.toml"
+hash = "31026f9d97a4aa2161d35be3d0fbc5df686c18275e12c302180118e5e9e2606f"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
 metafile = true
