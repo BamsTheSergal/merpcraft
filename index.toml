@@ -56,8 +56,18 @@ hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
 
 [[files]]
+file = "mods/bonsai-trees.pw.toml"
+hash = "f7e254d44fd0bf1f5a249496c4ce598c8d9bc5650c1c6fee6d6fbb92cc5d9c8f"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-tiers.pw.toml"
+hash = "f726c876c34fb0511239b19747b83c5a66179d5f91cf44007b09ea35d0b5acc0"
 metafile = true
 
 [[files]]
@@ -403,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "4ee622e3a57f0b0e93878bd40dd33ea3e4bbb7eeb61f07bb678cc725f8bf0b5f"
+metafile = true
+
+[[files]]
+file = "mods/libnonymous.pw.toml"
+hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
 
 [[files]]
