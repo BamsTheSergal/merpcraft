@@ -1,0 +1,13 @@
+name = "Botany Pots Tiers"
+filename = "BotanyPotsTiers-Forge-1.18.2-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbfaa3f7e3842c78b29230f9aad18a2a03dc2502"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4035735
+project-id = 526754
