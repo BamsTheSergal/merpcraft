@@ -41,6 +41,11 @@ hash = "7b67d42ac3d1e69c7a5e7aaba22b001dc3965d1c9f009dd9a38334f897ad0ad1"
 metafile = true
 
 [[files]]
+file = "mods/bed-benefits.pw.toml"
+hash = "0c8fa695137ab543320b5a71cb35c741c545a072380cb984e5b2bd94179f0fa6"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "2525c4774e1b6f182cfb549a622653e7fd8457473dd9a0c97fe1090d8a61a1cb"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "89ba0644a9390c3542ab43c9330dbbe6aab064cca78b55757b96b2dbd46f7a59"
 metafile = true
 
 [[files]]
@@ -168,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "a7ebd50a847a23bd54c2d5bb2ee0dceb8902d2089e7ba133126522b0e7c9887f"
+metafile = true
+
+[[files]]
+file = "mods/death-knell.pw.toml"
+hash = "b1b233adf5c40829f8cc9e7eae4360fceddecba4c429d2caab45aabcaab17a0b"
 metafile = true
 
 [[files]]
