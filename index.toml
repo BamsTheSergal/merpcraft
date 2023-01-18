@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
+hash = "52b6e12ebdd09c5708c22320d8c3def4575f1c37d608ebf803c4bc7e84f63043"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3e0a8d29b7abafa2d5f558039840cde65da303aa77f679cae096920b83263576"
+hash = "ef2b6aead0aa8d73256407d9945a3073fc0ddd8adea07eb329d73a15ae8ac570"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "79e4ad2c9c75a29ea998745d88fac5591c1486821d2bd51ae9573736d675a888"
+hash = "7ab79a9d0cad2f9a9303be1b8b2a5aa481c25ba028d5d00937d02b4a76ebd285"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2891bea6bfecd71e0061b6bef435641bfa5508de525280702a37af894327b428"
+hash = "449411347b958d4d18a2ffb5af786c9c9a755c2f9aea4d343864eae2a31590e3"
 metafile = true
 
 [[files]]
