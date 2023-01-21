@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ef2b6aead0aa8d73256407d9945a3073fc0ddd8adea07eb329d73a15ae8ac570"
+hash = "ca22a0f26534b993b0958777b6e07f451d28f02ea3383f9e51d6ad7eed2edb7f"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-paintings.pw.toml"
-hash = "a7ebd50a847a23bd54c2d5bb2ee0dceb8902d2089e7ba133126522b0e7c9887f"
+hash = "9cf13a7ae0f49e0c2457c2e501ea34d03bc3461b92309481e122fd7fdea95a17"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "b33a65b5aa24c7d559e4100708d891464aad3c0702f3d21027faef0cf3e4f16b"
+hash = "fd5ddb2fec1992fc07559a3b781f4d334556412093336e46b518ee4871475a46"
 metafile = true
 
 [[files]]
@@ -228,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "6e3de1004655e0dfbe02c6f00432cb3ceb2d2ad8da5abca45f8fa5a1a6b9b483"
 metafile = true
 
 [[files]]
@@ -497,12 +502,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs-biomes-o-plenty.pw.toml"
-hash = "51bed977084f3dc2a816aa5976c5948b46a04d71b139590d1034f44174079b9c"
+hash = "be23e70e95e5d17724c3f0e649ab2e63695f317fa50370b1a308e658b5789cf9"
 metafile = true
 
 [[files]]
 file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
-hash = "a0a2e269585f0b202559226b7cc6a3d08d468a62217f729a77fdf309822d24d4"
+hash = "557cad26cc93b20b2d786855dc3c910f930fcb09977c8164dcf891b4eeb0c7b2"
 metafile = true
 
 [[files]]
@@ -522,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "9f33ad46094198693346e70eb7311d195c3b5adfa54c82c6b9f3116403b37ee3"
+hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
 metafile = true
 
 [[files]]
@@ -667,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "2838a2626625d1740d7424e5e8a74ce41c99d991b93d3146a5f826a343604be4"
+hash = "5b7fefa5e7833b440dd1398d32df62233b437180a01b18d37006cfedb3b936b2"
 metafile = true
 
 [[files]]
@@ -767,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "340e1fb9df4501861e779df3a20188653a43d0c61023237d4f936490fc527ca7"
+hash = "4aeb9670f24f4416273ccdbad1aa2cdae96630f5eedea8f8c0b32623d1f4a028"
 metafile = true
 
 [[files]]
