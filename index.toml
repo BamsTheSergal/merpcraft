@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ca22a0f26534b993b0958777b6e07f451d28f02ea3383f9e51d6ad7eed2edb7f"
+hash = "e85f6f4f8b14b844a034f5f88eeeb041ac11a08095525ecd741fa15465f768d0"
 metafile = true
 
 [[files]]
@@ -386,6 +386,11 @@ hash = "51d72f9126ded6e791bd2cc85c1d483a6179606f77cdd57ebbcbd09eb2075f68"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "2a1c65d868c9128a653a26e3dcde386b855152272dc3a962570f20bd59c2185f"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
 metafile = true
@@ -487,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "8dc9f6076efe97ca5ce0b9e1d6f43943c5ef4b232963fd4bbd186ec1d9201db5"
+hash = "868293df6ca42ae362247416b443eaa134046853bafc4697de150365c27cf45b"
 metafile = true
 
 [[files]]
@@ -578,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
 metafile = true
 
 [[files]]
@@ -713,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "e1c059e28d866b1e8aba5c02ceef7c3970f3c361df35b065fabd3d8ad0c74693"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
 metafile = true
 
 [[files]]
