@@ -1,13 +1,13 @@
 name = "Spiders Produce Webs"
-filename = "spidersproducewebs-1.18.2-3.0.jar"
+filename = "spidersproducewebs-1.18.2-3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bb1cf9dc6ce2b48ac4137da886fe0340ff59aeb6"
+hash = "dbf3d3718e206aee4d8660ec07210ccf4ff54d01"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4310535
+file-id = 4397430
 project-id = 345298
