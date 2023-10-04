@@ -1,0 +1,13 @@
+name = "Time in a bottle Curio Support"
+filename = "curiotiab-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a437f34c15bc7986fedf3d1631e126b168bb85e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4748475
+project-id = 835981
