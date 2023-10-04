@@ -1,0 +1,13 @@
+name = "ESSENTIAL Mod"
+filename = "essential_1-2-2-2_forge_1-20-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de8f0a318530240bf7ff48d2552010b85bfb3450"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4768291
+project-id = 546670
