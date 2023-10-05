@@ -171,11 +171,6 @@ hash = "6a626fc4525e296e56c8bb092ed50ea77744cbd88a13dc3c665cfafa04ad9b4d"
 metafile = true
 
 [[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "3b3c3600783d1640d81a8ed8b4153464c4692ed5bad2e88116308278f1615796"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
 metafile = true
@@ -451,11 +446,6 @@ hash = "ae09750e91dfdf78e55cf5f7d2171029eccca6411cffa7dd12e04d1a155e32d7"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "c896ae4b8b5facd09ee77e904879909aa713e88d0c2e46b3c2e199fb74c2cbf3"
-metafile = true
-
-[[files]]
 file = "mods/pipez.pw.toml"
 hash = "6cd4b9d0f9213d696342e5f58a15b5b69bca6e484c9dd11c35a7a26af5d589b9"
 metafile = true
@@ -553,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "2fbb567ed29a27a717a22461ef0868d17963ced0af6ab836c3025faae5b374e1"
-metafile = true
-
-[[files]]
-file = "mods/storage-drawers.pw.toml"
-hash = "592910d12bfb5966d1c142b2ba219e6b79a09f96e3c06a4cef3d93645d1ec3f7"
 metafile = true
 
 [[files]]
