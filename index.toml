@@ -101,8 +101,13 @@ hash = "0d7674d3cce4e4f64a7fad8762201efa809c689f6b6059a142dc3bbf08f65985"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "6c1753a5ec1dd7509c36fab446e98413b5b5a409635086f88cea75ad579fd6e2"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
-hash = "139d5b6ce3de4ee4bdd81e633649994b928cceada8ac3243816aed199e1cb6f3"
+hash = "c1b81f570e909a71ca7dfbb0bf6d2f3ba22cf51b2d68643d62e8806ab617873f"
 metafile = true
 
 [[files]]
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e3e64e8d4fb23d48107cdb1ee9189531e275b19ffd804839faf61efac0e6b704"
 metafile = true
 
 [[files]]
@@ -173,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "6a626fc4525e296e56c8bb092ed50ea77744cbd88a13dc3c665cfafa04ad9b4d"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "71bf7d61b79a42577fac9bae4f75691235d433c29881dc5556e5e3c131b0b450"
 metafile = true
 
 [[files]]
@@ -271,8 +286,18 @@ hash = "5468ace73c2e8a4c8ecf7b8786bdcd0024fbfbfe088e642bbeb30eaf7e1cba21"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "0d46d137a23314f8c7c7a20d0416c02568fa1e315803e13973d96af4faba1f91"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "5ef2e5e2c23fb41590226a37bcfb376f7331e811991f0827bbe0e9815bdf74fd"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "ac44881d4f1bed1cf2dc995af3d6ad9c3ff280efa6af9ccbaef0ef4d70b99304"
 metafile = true
 
 [[files]]
@@ -618,6 +643,16 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "d842a0cd76bb204e022dc3c93c70c7ed8d0c93dbcb96d7e1649586259194e924"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "33adfcd1cd6d45af820c0ef49db6cdd9df309e349874e748c64eebc6e10aa30d"
+metafile = true
+
+[[files]]
+file = "mods/villagers-drop-emeralds-on-death.pw.toml"
+hash = "2a63bf7d64b7ac8c72d66d6bfd22fed9fe6f7075c72175a34af2c46408787620"
 metafile = true
 
 [[files]]
