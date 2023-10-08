@@ -461,6 +461,11 @@ hash = "16b3aced2b697e3bda8060fa0e05a8203167da440ca5238911733cd123e5c51a"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae09750e91dfdf78e55cf5f7d2171029eccca6411cffa7dd12e04d1a155e32d7"
 metafile = true
