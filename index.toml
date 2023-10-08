@@ -76,6 +76,11 @@ hash = "af72d0cfb1179be3c02940ef134a0b5debd88123d5636c2578066e99e08a9924"
 metafile = true
 
 [[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "7daba8e83e2dc39da2add302231a4dce54fd0f4059f13dfea4b80f60bce500f5"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "82f28744002af1a87779f66a917565e795778fd04a05732367e6e1497d86e0d4"
 metafile = true
@@ -123,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "af8bb43157e316f30cf6207a98a89366c5d8fc86d5b0d289c3df790ce27d811e"
 metafile = true
 
 [[files]]
@@ -458,11 +458,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "16b3aced2b697e3bda8060fa0e05a8203167da440ca5238911733cd123e5c51a"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
 metafile = true
 
 [[files]]
