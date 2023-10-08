@@ -1,0 +1,13 @@
+name = "Villagers Drop Emeralds on Death"
+filename = "villagerdrops-forge-1.20.1-v1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3b9e01352d82ba966e651b1259eee7f02afa78a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4706206
+project-id = 502660
