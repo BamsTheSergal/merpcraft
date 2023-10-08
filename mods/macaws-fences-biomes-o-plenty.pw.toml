@@ -1,0 +1,13 @@
+name = "Macaw's Fences - Biomes O' Plenty"
+filename = "mcwfencesbop-1.20-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0d5241dcea57c5643de96b5cefa390e2992154e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4581205
+project-id = 605641
