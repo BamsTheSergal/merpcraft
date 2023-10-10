@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "19d39f0264d25ff78834044a682d17b9614c181efef767c6e035af1502078561"
+hash = "456c6304dbb97369bdd98f73c42965f0d0779ef6c31992663af140d00958d616"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
-hash = "57073df9d5d144adef35b37f4f6769b68408586b5653a9aad9f243804562ae8a"
+hash = "2f90e9c375f5528b7d2d2240db5fb30e676a00ae4a9d08ea646c446a8b91791d"
 metafile = true
 
 [[files]]
@@ -486,6 +486,11 @@ hash = "16b3aced2b697e3bda8060fa0e05a8203167da440ca5238911733cd123e5c51a"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "bdb1391dc8133efac0f871766d771b83a6e3a2b19077a4b3c649ddc11a703901"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae09750e91dfdf78e55cf5f7d2171029eccca6411cffa7dd12e04d1a155e32d7"
 metafile = true
@@ -517,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
-hash = "33832faa5dfc903d11babf66115073a1ed3090972890607b636a2c91eecea3c2"
+hash = "2c9686c8857adeb31892b7689a4c68a2513b983a4eea8321475261b58ce449be"
 metafile = true
 
 [[files]]
@@ -552,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3ba02d4eee67d1f4c55763a79bfa57bc62f262990b3de5a340ac46761c2e14a4"
+hash = "76dbf1b09560a344a2d4b7187e93a2face32f7d12e59eee9999e6e93dc82dc85"
 metafile = true
 
 [[files]]
@@ -597,12 +602,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "9fa2078879f92cab901f7a55c53144816af7803afab9e5d2c2435a2c3ea72b82"
+hash = "44a8b560a3d0072edc7362f20023145a22a3ecf6ad84fbc9a47f44008e14cf02"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3eca07161cde8b049eede7cca66c63f8a0a80e866cdc6b061e858cc303df6105"
+hash = "99c1045e8e446d873644235661d42e4b960b1a21215042b601a37595aad9bc42"
 metafile = true
 
 [[files]]
