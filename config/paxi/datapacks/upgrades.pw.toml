@@ -1,0 +1,11 @@
+name = "upgrades"
+filename = "upgrades.zip"
+side = "both"
+
+[download]
+url = "https://github.com/BamsTheSergal/packwizpack123/raw/main/upgrades.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a3d17e4d15046de64b162b88960497034d173431768d3ed59a147a2b420e6484"
