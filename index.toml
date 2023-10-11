@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/upgrades.pw.toml"
+hash = "3a034fc1f19b7d5c23fca58ea081d3719e3d0b024ec8354e6b78a5bc0db4ca20"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "6b2d9d8f2a3f9b34289d9a8f96722307d9decdfbf5121c468b76238d240a91f8"
 metafile = true
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae09750e91dfdf78e55cf5f7d2171029eccca6411cffa7dd12e04d1a155e32d7"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
 metafile = true
 
 [[files]]
