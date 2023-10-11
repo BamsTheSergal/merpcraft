@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "af72d0cfb1179be3c02940ef134a0b5debd88123d5636c2578066e99e08a9924"
+hash = "810814708bc927f3e4f4571f80e332929edda20e435c774d55ef7f49bc2f09db"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "456c6304dbb97369bdd98f73c42965f0d0779ef6c31992663af140d00958d616"
+hash = "fe76cf5eec1383fb9f09effcbf22485295d1d22bb9b3caae387b855cde95ce50"
 metafile = true
 
 [[files]]
