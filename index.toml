@@ -156,6 +156,11 @@ hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "7d053abf99422fbeaf478c836397a81f56b26e18b1be2c8ebce19ee6c2a62f64"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "f0c1f2f0f7735941a80f9dae9dd5fdb99b869d30e44b65dffd29db805e953ada"
 metafile = true
@@ -593,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "b05fa0f3c71343936bd14907f4c1f9d594ed1b740031512a433eeb0f82fb6b5a"
 metafile = true
 
 [[files]]
