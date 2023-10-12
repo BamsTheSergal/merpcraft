@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "c792afd941029d40230bb5e45376dd92131cd0f0aff4ede989c64240bb51a410"
+hash = "8e341490ab2a2b976251e3670af33638caf5e4137b7b782195451ca50249a5ba"
 metafile = true
 
 [[files]]
