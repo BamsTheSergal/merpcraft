@@ -1,0 +1,13 @@
+name = "Crafting+"
+filename = "crafting+-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sjUk6lfU/versions/VvG6I9D2/crafting%2B-1.1.jar"
+hash-format = "sha1"
+hash = "fdb0f8c896a5e8f41caa5bd7a8b50d947873d918"
+
+[update]
+[update.modrinth]
+mod-id = "sjUk6lfU"
+version = "VvG6I9D2"
