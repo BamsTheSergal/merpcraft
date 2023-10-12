@@ -156,6 +156,11 @@ hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
 
 [[files]]
+file = "mods/crafting+.pw.toml"
+hash = "0a7b09112a042597ed53518a14c02c45d5ff30e3a4e3ba47640b274f6dd1be15"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "7d053abf99422fbeaf478c836397a81f56b26e18b1be2c8ebce19ee6c2a62f64"
 metafile = true
