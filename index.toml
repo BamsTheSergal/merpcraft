@@ -56,6 +56,11 @@ hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
 
 [[files]]
+file = "mods/beachparty.pw.toml"
+hash = "acef166deabbd1b6c0029742c3c145bae508917bbae5b555e7aeaecf98a90d5c"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "03d1c87a07362e537a64fbad07c99482a2f52c8f36e8725b560f55d4f8c1315e"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "caee6348c332381e5d7cc4d254af47c0c23e64872ceb6719fb58e860bbc7baf1"
 metafile = true
 
 [[files]]
@@ -358,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "bb26d8b2eafcce6c489f986738cd36fcf1ef8c766b268b2b853b582170b29b44"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "30fda75c29e9270e0c207bc8c8398ba615b70fc578c5eb74bf911c8b0e1044cb"
 metafile = true
 
 [[files]]
