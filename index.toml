@@ -2,7 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/datapacks/upgrades.pw.toml"
-hash = "3a034fc1f19b7d5c23fca58ea081d3719e3d0b024ec8354e6b78a5bc0db4ca20"
+hash = "87a909985701b1cb7f73d308ac07ef5a7ddafe70a7ec2b784d9c294bd0878786"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/bakery textures 1.0.pw.toml"
+hash = "63162bdd16ca88a2d1ac0d5f83539bcf7869bbf2020b614fc31df0451fa6b191"
 metafile = true
 
 [[files]]
