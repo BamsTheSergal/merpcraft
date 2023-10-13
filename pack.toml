@@ -1,12 +1,12 @@
-name = "Dezcraft"
+name = "Merpcraft"
 author = "Bamsy"
-version = "1.0.0"
+version = "1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "77442aebce345fa3f27517b015822e66c0f85444f9b14ed9a0108e339a246047"
+hash = "81c86bb0ea748373a26a18aecc0375c7737dec504bd9a46c2ac4373621653e5a"
 
 [versions]
 forge = "47.2.1"

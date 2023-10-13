@@ -236,8 +236,18 @@ hash = "552ab49bb2fc37b2f5f189867d8ac6a395d98cd2bf16f272f0a58095e27d4182"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "995f7db2ba6c1a97de2afccb80b89d03f85f83a7252874e52829c172ad4286ad"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "99dad9ae9fd4a14a59ab03a7a171b744fa5b8316e0f2cdd38cb03f40162b18f4"
 metafile = true
 
 [[files]]
@@ -308,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "2173e8922c49fdffb63f182889cca029b7c3d07d94bcfd513f7937c767ab10b5"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
 metafile = true
 
 [[files]]
@@ -628,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "d2b279fed0d824d1cb93a2eccaa1f0c68251abb5ff801b75d530b55bc88a0cc4"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "896b67223b10b47e65299d2c9c3fa2ef913cb5cd86b805bd8b2704e1bb40f4e0"
 metafile = true
 
 [[files]]
