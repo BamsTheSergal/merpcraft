@@ -1,13 +1,13 @@
 name = "TofuCraftReload"
-filename = "TofuCraftReload-1.20.1-5.6.2.2.jar"
+filename = "TofuCraftReload-1.20.1-5.6.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "18920149a8505da2cb98cadf49a1022d58f1dfd0"
+hash = "5519804c572d25bee3ccbb307eb18d06a1c210e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4787010
+file-id = 4796357
 project-id = 317469
