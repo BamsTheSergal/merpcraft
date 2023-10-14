@@ -41,11 +41,6 @@ hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
 metafile = true
 
 [[files]]
-file = "mods/argentinasdelight.pw.toml"
-hash = "9948b093861d0695485e2c1223920965c5954602f27223a5039f8f73534aa6ee"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "ea54aad061d317e52cbf8d637d9c25c6283cbde17505d56159fecdfd14e00436"
 metafile = true
@@ -166,17 +161,13 @@ hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
 
 [[files]]
-file = "mods/crafting+-1.1.jar"
-hash = "3cd68771bb193961dc53c044ab82e9c1635127f63d863339a818bc32119f9b8a"
-
-[[files]]
 file = "mods/crafting+.pw.toml"
 hash = "0a7b09112a042597ed53518a14c02c45d5ff30e3a4e3ba47640b274f6dd1be15"
 metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "7d053abf99422fbeaf478c836397a81f56b26e18b1be2c8ebce19ee6c2a62f64"
+hash = "9505d8f590800cb91e69e1b669b95a12033b2e71211a2d4cd828523781c097d1"
 metafile = true
 
 [[files]]
@@ -245,8 +236,18 @@ hash = "402cbae394ef8a4bf30bd56167d04d1e308fa878665d76ec60c7bbb1aaf09e6a"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "6283a805fe02b6077ef887393513b67559c499b1a58c1d4aa30a6972e22aca3d"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "5bf65befb27fa0eb1421951e6f6fc5c2ae9dd7a9582e9b4671898c9b715c91e7"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "99dad9ae9fd4a14a59ab03a7a171b744fa5b8316e0f2cdd38cb03f40162b18f4"
 metafile = true
 
 [[files]]
@@ -273,10 +274,6 @@ metafile = true
 file = "mods/fastsuite.pw.toml"
 hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
-
-[[files]]
-file = "mods/ferritecore-6.0.0-forge.jar"
-hash = "01e8fe9e4bc1587e692c0d32ace72afeb294d5d5c1a3b7a8d9645f802b906255"
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
@@ -321,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "715420a61b60152a3774eae0908873070b4e1576fd2411b5cfc138f31cc3cd9e"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
 metafile = true
 
 [[files]]
@@ -509,10 +511,6 @@ hash = "b1b6d734bb14b1d9d897edb22fab983dc0006f55d19ae218fbe872bc6c9a1cc9"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-forge-1.17+-1.1.2.jar"
-hash = "a5d2087f8a785244efe1ec894a09fe49f6e4fb9956a00b113df8e6a265cc5549"
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
@@ -618,6 +616,11 @@ hash = "d5f050dba98e079a4575e559df037bbdffac919f728159bce602e793d5460b42"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "c06eafa8498a45a35db8849e3e0e72a8b847eed025a9d231ffbe02efb6fbec7c"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
@@ -645,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "896b67223b10b47e65299d2c9c3fa2ef913cb5cd86b805bd8b2704e1bb40f4e0"
 metafile = true
 
 [[files]]
