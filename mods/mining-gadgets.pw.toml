@@ -1,13 +1,13 @@
 name = "Mining Gadgets"
-filename = "mininggadgets-1.15.3.jar"
+filename = "mininggadgets-1.15.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a0a07bf973900533591469cd906b609e0b12af6"
+hash = "bf6c4d207151a2bde11ecde63fcdfc2a16de28f8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4733497
+file-id = 4801471
 project-id = 351748

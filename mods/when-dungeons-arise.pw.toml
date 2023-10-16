@@ -1,13 +1,13 @@
 name = "When Dungeons Arise - Forge!"
-filename = "DungeonsArise-1.20.1-2.1.56.1-beta.jar"
+filename = "DungeonsArise-1.20.1-2.1.57-release.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "af1a2a600d7e9255f113b8b68b3f13b470a453af"
+hash = "1bc95d13cf8208c5cfe100a001d6b078d15742f7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4607317
+file-id = 4798432
 project-id = 442508
