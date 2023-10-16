@@ -96,6 +96,11 @@ hash = "7daba8e83e2dc39da2add302231a4dce54fd0f4059f13dfea4b80f60bce500f5"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "959377544e5aecaaf0e87dfc10456926dd330c7fc91cca95e277686521f009be"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "82f28744002af1a87779f66a917565e795778fd04a05732367e6e1497d86e0d4"
 metafile = true
@@ -166,6 +171,11 @@ hash = "0a7b09112a042597ed53518a14c02c45d5ff30e3a4e3ba47640b274f6dd1be15"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "b9bec597080d4fa6b8671c37798fd7263510a1302f3b826c7c0e53c8469f5b38"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "9505d8f590800cb91e69e1b669b95a12033b2e71211a2d4cd828523781c097d1"
 metafile = true
@@ -183,6 +193,16 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5cb5edbf87e4f9f3161a02f6b8f3a17cb3674157bdae93dd7dd347af2f0abfb9"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "e642913eed170d93ef44eafa86743c8e8ad771186c50748fd15c907debc3b0f2"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "e357fc625123177d04155eb3edf66a42cc8524aa86410dbb09e857ce036a074b"
 metafile = true
 
 [[files]]
@@ -226,13 +246,18 @@ hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
 metafile = true
 
 [[files]]
+file = "mods/effect-tooltips.pw.toml"
+hash = "36798523a87111afaf2237cd610a73653487d9523a8576afda08d9fe1acf1129"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
-hash = "fe76cf5eec1383fb9f09effcbf22485295d1d22bb9b3caae387b855cde95ce50"
+hash = "3c02e315e438a116750efe733795a377e3e363a32f683509d302caa1df722507"
 metafile = true
 
 [[files]]
 file = "mods/ender-io.pw.toml"
-hash = "402cbae394ef8a4bf30bd56167d04d1e308fa878665d76ec60c7bbb1aaf09e6a"
+hash = "2aef4eb54eff674d81dc81398324fc89ab3683fefb4bf6ca79d995f7c800ff85"
 metafile = true
 
 [[files]]
@@ -278,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "c535d838b65ede11de73647587f98c6fca8aa7247d093ac38ec506188075533e"
+metafile = true
+
+[[files]]
+file = "mods/food-effect-tooltips-forge.pw.toml"
+hash = "8e2f5565473a914cc14c70d6baad72cd03b4254b741b3021015ec9b12e8c8ec2"
 metafile = true
 
 [[files]]
@@ -332,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "0d46d137a23314f8c7c7a20d0416c02568fa1e315803e13973d96af4faba1f91"
+hash = "d8dd6092de845ee7bdab21468819986bb890a7bd026cb3a73d65707e06ac53b3"
 metafile = true
 
 [[files]]
@@ -372,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "81651624da9b11fc1346af3684677121e5682d8776ca13ee06a2a355add0645a"
+hash = "97e0fd23df99408c20ea1bdfc9df2fceb16f4e06cb4a2839a68ec2ed72588a7b"
 metafile = true
 
 [[files]]
@@ -388,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "b8ccdb6c421792758f82d52605253fec9e3255ef4e19aa88c06bdaba95b84f32"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
 metafile = true
 
 [[files]]
@@ -517,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
-hash = "8485dd9b143719a4eb2d2813409c6371904694ae03f6451212f35f8874cfc98b"
+hash = "4f3ed2fb37074fc2c2f30ab7e1518409fd3542e498d3fe5c07f942151c735768"
 metafile = true
 
 [[files]]
@@ -627,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "40a74311c34a2cb0c1af0d278c058110396cb5548a868d6126dac7e7dd7b2d7d"
+hash = "250681aa021c394c6c841bea81e715bbbc9028fde4f0c6770fc96adf09a87ff4"
 metafile = true
 
 [[files]]
@@ -757,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "c6bf85b9fb817f6e60b984f22f85a2209593dc9e15a30044a94c61018824e119"
+hash = "5e692eaff3303988ab41f765070feff25b42dce4a90c23cc696dfbb8a450c392"
 metafile = true
 
 [[files]]
