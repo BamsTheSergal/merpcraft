@@ -276,11 +276,6 @@ hash = "6283a805fe02b6077ef887393513b67559c499b1a58c1d4aa30a6972e22aca3d"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "5bf65befb27fa0eb1421951e6f6fc5c2ae9dd7a9582e9b4671898c9b715c91e7"
-metafile = true
-
-[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "99dad9ae9fd4a14a59ab03a7a171b744fa5b8316e0f2cdd38cb03f40162b18f4"
 metafile = true
@@ -323,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "8e341490ab2a2b976251e3670af33638caf5e4137b7b782195451ca50249a5ba"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
 metafile = true
 
 [[files]]
@@ -382,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "5ef2e5e2c23fb41590226a37bcfb376f7331e811991f0827bbe0e9815bdf74fd"
+hash = "974bef563360d2082cfdf4c5e66a041ab9162e8f60ab9436f9a130d22ac2f66b"
 metafile = true
 
 [[files]]
@@ -547,17 +537,17 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "2fb1643d7675045a5e659c747f4cc4c26803a2b0cad8eed32e56699a9248845e"
+hash = "125f42396cc76a83ca8448ef67e1f09b149cc64bf72ad8153aff01a78cc7ce54"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "251cbe6234871f2e245acf376f2e6a37e282dda3cd18f67bc18456cf67c0881e"
+hash = "90a0594c40dd0392253b0ddecaa33d20fea448956111c3228bcb3f3992d8b9e1"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "b1b6d734bb14b1d9d897edb22fab983dc0006f55d19ae218fbe872bc6c9a1cc9"
+hash = "d715c3b055423a9ee72b6a1934bb9971cb368c089fd2346d0565cb6e10a286f2"
 metafile = true
 
 [[files]]
@@ -593,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "16b3aced2b697e3bda8060fa0e05a8203167da440ca5238911733cd123e5c51a"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
 metafile = true
 
 [[files]]
@@ -742,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1e83906f4084a1feee89dc405e7e41db2431430a389c1b5f9d2fa1d858843575"
+hash = "9a3ee1db67b2eb25b75f0febfbd08e22f6817fd61d039343dd51582ae536fd64"
 metafile = true
 
 [[files]]
