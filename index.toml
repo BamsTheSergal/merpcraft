@@ -431,6 +431,11 @@ hash = "b8ccdb6c421792758f82d52605253fec9e3255ef4e19aa88c06bdaba95b84f32"
 metafile = true
 
 [[files]]
+file = "mods/justabattery.pw.toml"
+hash = "d8acfba9d501b333dfa271f4541a24924083faca627b30f9aa998a15c53b6a38"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
 metafile = true
