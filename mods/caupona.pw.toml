@@ -1,13 +1,13 @@
 name = "Caupona"
-filename = "caupona-1.20.1-0.4.7.jar"
+filename = "caupona-1.20.1-0.4.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "207dea61aea7bde3f2d120774a186c6f4e77f1b9"
+hash = "a180b1f36550b808a7d6bfb128d37e4e03d655d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4777779
+file-id = 4727564
 project-id = 656147
