@@ -21,6 +21,11 @@ hash = "6b2d9d8f2a3f9b34289d9a8f96722307d9decdfbf5121c468b76238d240a91f8"
 metafile = true
 
 [[files]]
+file = "mods/allthecompressed.pw.toml"
+hash = "c75636e54bd8b535ded951be0ae3fa5b6af91846a5915f008c3fc148143f4615"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "a0d2da749d8ed3b170c95e60c7441d1bad438547046a36bf27a9ca2f818102d0"
 metafile = true
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/caupona.pw.toml"
-hash = "96b8fc6f110289cb78f4cbd96d60f777361b2c5d8c973938ab1c373cb4bedf10"
+hash = "e1d51b9d790128b9918e73f79f5ff6c5044bdef1fe9e07c0a30af73c93bf85b7"
 metafile = true
 
 [[files]]
@@ -252,17 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "a22d974561d091b8ec5cecb0c84c07f16c2341c5724fff32161272e9242316bd"
+hash = "d11543800fd1cfcae1223762b584dd58645d22aaed23272bd5661497caf9e2b6"
 metafile = true
 
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
-metafile = true
-
-[[files]]
-file = "mods/effect-tooltips.pw.toml"
-hash = "36798523a87111afaf2237cd610a73653487d9523a8576afda08d9fe1acf1129"
 metafile = true
 
 [[files]]
@@ -313,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "c535d838b65ede11de73647587f98c6fca8aa7247d093ac38ec506188075533e"
-metafile = true
-
-[[files]]
-file = "mods/food-effect-tooltips-forge.pw.toml"
-hash = "8e2f5565473a914cc14c70d6baad72cd03b4254b741b3021015ec9b12e8c8ec2"
 metafile = true
 
 [[files]]
