@@ -766,6 +766,21 @@ hash = "72ced7ade7b22637f28e2786e93e0e8afad3b7c3fd402998e08d8c688a93af6e"
 metafile = true
 
 [[files]]
+file = "mods/tiny-gates.pw.toml"
+hash = "ceac2c3e6899066cf7193d7669d1803ba80f8ad103e9345b7a6acc4eb6ee574a"
+metafile = true
+
+[[files]]
+file = "mods/tiny-pipes.pw.toml"
+hash = "6f85a92bf2347a0e2d5c4aa5ca62b2488da5ca4b9e7300888941b736e1871b94"
+metafile = true
+
+[[files]]
+file = "mods/tiny-redstone.pw.toml"
+hash = "247f506108f7d7fb875e4353377e56b5a3081dd9858586f786f51b89167e1bc0"
+metafile = true
+
+[[files]]
 file = "mods/tofucraftreload.pw.toml"
 hash = "230274f67a4d71403f6a7c1b0d5fe43e640f58ddd6caf454ddae487fa45dc9ac"
 metafile = true
