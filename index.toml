@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "c535d838b65ede11de73647587f98c6fca8aa7247d093ac38ec506188075533e"
+hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "480e15fa0084ed4777f53954aa8d1e0b3ee4a9e97ec47dc0f912b0f53ecc180d"
+hash = "91daae8c92b7a1e2696b3171ca86d35b369ed240d055cdebcc6cac77ebad9288"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "793af1833cf85a38cde1f4beef628aead925017b9a7af1ec28701d2c50ffd347"
+hash = "386c6b97130630b3cfb3ad405a2303b936a4799da830cc7dcc4f982b1c3ae21e"
 metafile = true
 
 [[files]]
