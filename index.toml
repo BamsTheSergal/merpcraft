@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "a975c682da007847dfe6711b5f12e3e61a4f78c98a432ed158bf77ecfc1ab2e9"
+hash = "d13be00006048c6255cf9575b197c8bba7e5425c142283c0199fe4badc5e0469"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+hash = "c535d838b65ede11de73647587f98c6fca8aa7247d093ac38ec506188075533e"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "974bef563360d2082cfdf4c5e66a041ab9162e8f60ab9436f9a130d22ac2f66b"
+hash = "a6e3a82cd308655e473973686bd0b375f37a0f12fd6546e1a6c02a619934b7e8"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "1d22320006488bea135d2f54e519e52a8d93e88f561b2637408e2f0cbbfe8a1f"
+hash = "949e6421d82f2ffecde55d08ad13247291ab2f1b3cb38b1fa534e3a7642c11d3"
 metafile = true
 
 [[files]]
