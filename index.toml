@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
-hash = "4f3ed2fb37074fc2c2f30ab7e1518409fd3542e498d3fe5c07f942151c735768"
+hash = "829a5fc278dc6b5c08e9bd0abfbbf6551546962cb69a4f01071c34d617698d76"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "94583e2fb46de3127bd76d95d442ddd65bb44e8be47fa26947aa45a08c4fd490"
+hash = "506277098b3e52fe5e44a99cb998fb5d83ae0bf60dd3655d66e9726d2edc75fd"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "230274f67a4d71403f6a7c1b0d5fe43e640f58ddd6caf454ddae487fa45dc9ac"
+hash = "1d22320006488bea135d2f54e519e52a8d93e88f561b2637408e2f0cbbfe8a1f"
 metafile = true
 
 [[files]]
