@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "9c1ac75ae68994712d30f48ed1efa6613e69398a97d2de3be90b5b3b2accd97f"
+hash = "bbd37c0148855bc6aaac27bdc7aef5acef2f29180da52adfa5818573924135f1"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "a975c682da007847dfe6711b5f12e3e61a4f78c98a432ed158bf77ecfc1ab2e9"
+hash = "d13be00006048c6255cf9575b197c8bba7e5425c142283c0199fe4badc5e0469"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "c535d838b65ede11de73647587f98c6fca8aa7247d093ac38ec506188075533e"
+hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "974bef563360d2082cfdf4c5e66a041ab9162e8f60ab9436f9a130d22ac2f66b"
+hash = "a6e3a82cd308655e473973686bd0b375f37a0f12fd6546e1a6c02a619934b7e8"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "91daae8c92b7a1e2696b3171ca86d35b369ed240d055cdebcc6cac77ebad9288"
+hash = "480e15fa0084ed4777f53954aa8d1e0b3ee4a9e97ec47dc0f912b0f53ecc180d"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "7ed3ff58f8da22ce6b1d02a22ad80cad809a39bcb270e273caed582bb37ebb9a"
+hash = "d1f324fd8a01a78198c1d439d82b778f90514575584c3877716f7343a8112f58"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/time-in-a-bottle-curio-support.pw.toml"
-hash = "8f03c1ee62931d70b86300d2cc71df0dab81a2d62533ec2b74176c9bcb959aaa"
+hash = "d2459a69c30d8097f378c4c0c211f324fa3450b35bff6e57d99e36b620058d15"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "1d22320006488bea135d2f54e519e52a8d93e88f561b2637408e2f0cbbfe8a1f"
+hash = "949e6421d82f2ffecde55d08ad13247291ab2f1b3cb38b1fa534e3a7642c11d3"
 metafile = true
 
 [[files]]
