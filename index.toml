@@ -71,6 +71,11 @@ hash = "acef166deabbd1b6c0029742c3c145bae508917bbae5b555e7aeaecf98a90d5c"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "957cd63190d68b4a624b6c6fdfdc722e85df2413abf934ca5b76baa6ed3bbc9c"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
@@ -196,6 +201,11 @@ hash = "9505d8f590800cb91e69e1b669b95a12033b2e71211a2d4cd828523781c097d1"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "4296d5eee2755319778b68ab681878143746d8e53328d5489237efa46af9db93"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "25a90b3108803d44bd1b3316c42428f6536f94674c27d16831453ad8abd8f136"
 metafile = true
@@ -203,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "d13be00006048c6255cf9575b197c8bba7e5425c142283c0199fe4badc5e0469"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "67ac69249248ff9b8fe176111a55b71a95dbadd718bb005fa91f9ef6c7b04f36"
+metafile = true
+
+[[files]]
+file = "mods/create-more-drill-heads.pw.toml"
+hash = "401426b68cac4432b3a5e4052f66d9baed67c779eaf80ce5bdb85858d5e8f5b5"
 metafile = true
 
 [[files]]
@@ -398,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b918ebb7bd0ad42bad7f686a780161a8e185b294cb59a62c6a7a71093ed1cab9"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "869e8a2f50482932d229bcaeff5d641f7eef2ce6b79f6e71c3f8c278989ac84f"
 metafile = true
 
 [[files]]
@@ -606,6 +631,11 @@ hash = "16b3aced2b697e3bda8060fa0e05a8203167da440ca5238911733cd123e5c51a"
 metafile = true
 
 [[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "43a978d4f0267a8411fcc22a64c022a43ae150f0005cbaddd2d0094629437291"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
 hash = "bdb1391dc8133efac0f871766d771b83a6e3a2b19077a4b3c649ddc11a703901"
 metafile = true
@@ -652,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "cc0f0092b13407d5389ef8f1bfc40f1684256d7072c3c4fa3a93143f3a0ef478"
+hash = "847499e7f00467243f37c122f774d545cde7fd3f14dba16fc8f4067a02fbee33"
 metafile = true
 
 [[files]]
