@@ -221,11 +221,6 @@ hash = "67ac69249248ff9b8fe176111a55b71a95dbadd718bb005fa91f9ef6c7b04f36"
 metafile = true
 
 [[files]]
-file = "mods/create-more-drill-heads.pw.toml"
-hash = "401426b68cac4432b3a5e4052f66d9baed67c779eaf80ce5bdb85858d5e8f5b5"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5cb5edbf87e4f9f3161a02f6b8f3a17cb3674157bdae93dd7dd347af2f0abfb9"
 metafile = true
