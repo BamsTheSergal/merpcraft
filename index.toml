@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
+hash = "d15fab4df075ae00f9d90966adf22f56688d44f186c7aefd5be112b60e3983ad"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/upgrades.pw.toml"
 hash = "87a909985701b1cb7f73d308ac07ef5a7ddafe70a7ec2b784d9c294bd0878786"
 metafile = true
@@ -8,6 +13,16 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/bakery textures 1.0.pw.toml"
 hash = "63162bdd16ca88a2d1ac0d5f83539bcf7869bbf2020b614fc31df0451fa6b191"
+metafile = true
+
+[[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "edccbc972eebc20cfa046535dac259da852ada487b27d4da48fffddfac519cb3"
 metafile = true
 
 [[files]]
@@ -266,6 +281,11 @@ hash = "461beb4ee9154664470a4304d5540be929a3b76fde05a8f8c431ae3ac78402b2"
 metafile = true
 
 [[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "63e1e539fde693313983c872b946dc9dccd5d4700047829a8bc21a71ff6a16a7"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "6a626fc4525e296e56c8bb092ed50ea77744cbd88a13dc3c665cfafa04ad9b4d"
 metafile = true
@@ -378,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "715420a61b60152a3774eae0908873070b4e1576fd2411b5cfc138f31cc3cd9e"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "69f29d52e12bd46f1a5a3282978461cba8860934f636d3ec9e49832a98646ee7"
 metafile = true
 
 [[files]]
