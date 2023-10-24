@@ -1,0 +1,13 @@
+name = "Twilight Forest: JAPPA Pack (official addon)"
+filename = "Twilight JAPPA Pack 1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e2c8c275fe53b47daa487fc564905170fd8dbbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4631128
+project-id = 885865

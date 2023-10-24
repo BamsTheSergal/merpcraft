@@ -1,11 +1,9 @@
 name = "bakery textures"
 filename = "bakery textures 1.0.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://github.com/BamsTheSergal/merpcraft/raw/main/bakery%20textures%201.0.zip"
-
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
 hash = "80e649e663226dad6d7ab60cf9b830f042f04da03608d37f7dedf8d818f4a43a"
