@@ -1,13 +1,13 @@
 name = "Charm of Undying (Fabric/Forge/Quilt)"
-filename = "charmofundying-forge-6.4.2+1.20.1.jar"
+filename = "charmofundying-forge-6.4.4+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fa20c44ef4d13ed1077a4ff176b30a6cf79a8bd7"
+hash = "ff3f7e04a966e739f096ff5c9703798eeeb11b2f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4603652
+file-id = 4813930
 project-id = 316873

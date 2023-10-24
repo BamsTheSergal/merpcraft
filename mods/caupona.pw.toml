@@ -1,6 +1,7 @@
 name = "Caupona"
 filename = "caupona-1.20.1-0.4.4.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
