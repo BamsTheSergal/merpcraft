@@ -286,6 +286,11 @@ hash = "c32ad54d7b3875f326808bf3cf5cae41a132711fe84afc7bd9ccf703f3ecbd79"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "3e6e28663f7d805558ec0fdaf08ccf01719e1b37aed9b0a7493f467b437c0981"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
 metafile = true
@@ -326,6 +331,11 @@ hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0c9bddfb4fde72ad3f49e60c25937ab078b4771e8aa360cbb2fc39727f4755d1"
+metafile = true
+
+[[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
 metafile = true
@@ -343,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3372c42e88bbe1d13d2d45aa0896d1d72082fc11450f510762824173ca7b4904"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "303e73c87c06bb931a01450bf2c4dae5c5b8d1c05f177a7b900c1cd3552c07f7"
 metafile = true
 
 [[files]]
@@ -676,6 +691,11 @@ hash = "829a5fc278dc6b5c08e9bd0abfbbf6551546962cb69a4f01071c34d617698d76"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "8370d3602ecb1545b052f81035ff92e3e2cab7dc549fde5a4effb24542bccbc0"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
@@ -683,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+metafile = true
+
+[[files]]
+file = "mods/nerb.pw.toml"
+hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
 metafile = true
 
 [[files]]
@@ -708,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "43a978d4f0267a8411fcc22a64c022a43ae150f0005cbaddd2d0094629437291"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "04116c45f04c2f2b29bea2979ba7b334de752adf984b953d6de14c2568f57034"
 metafile = true
 
 [[files]]
@@ -936,6 +966,11 @@ hash = "ebb0b9b87fbb1c2c144d4a3c47fe4132e0485881cfe16c732851dd400e3bdf99"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "7c9ac6ada5e41d1e1a36ae7c7a4a258f2bfcc6c1e8b965dc9dba5cd4f2879f3a"
+metafile = true
+
+[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "54f49c5a8aafa53ef28c30818c247f980ba0af5988154888a41dc4d433d7deb6"
 metafile = true
@@ -943,6 +978,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "1bfc00546eacc516fef33abcaabce4499f4e8508d56f0ed8e3d55736831acfdd"
+metafile = true
+
+[[files]]
+file = "mods/trimseffects.pw.toml"
+hash = "87924321fb48fb0b8c34eaaaae6a0edfb576296686da195b4a16152301911098"
 metafile = true
 
 [[files]]
