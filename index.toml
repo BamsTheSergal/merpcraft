@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "d11543800fd1cfcae1223762b584dd58645d22aaed23272bd5661497caf9e2b6"
+hash = "e765ca04a98eb1edc58e39f91f1717e643e31cd688201de886038776f44e93a7"
 metafile = true
 
 [[files]]
