@@ -21,6 +21,11 @@ hash = "fbb4644fe0733d7c9662931679559ad5bd6b09c616fec2e46c6aeb328cb053f9"
 metafile = true
 
 [[files]]
+file = "mods/absent-by-design.pw.toml"
+hash = "4374330e6a885f84e16947851d9e37ec30f4e0fd431487cd934d56b1b24dc58b"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "c75636e54bd8b535ded951be0ae3fa5b6af91846a5915f008c3fc148143f4615"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "4f2e189a7666c586cd37854fc6932c213aed878353166a530d6f0edb0674848e"
 metafile = true
 
 [[files]]
@@ -206,6 +216,11 @@ hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/crafting+.pw.toml"
 hash = "c68fcf00bac44ca6015e8b0902c7220b950d2d39e15dc6c78ad285231c25aa5f"
 metafile = true
@@ -361,6 +376,11 @@ hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
@@ -368,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
 metafile = true
 
 [[files]]
@@ -516,6 +541,11 @@ hash = "386c6b97130630b3cfb3ad405a2303b936a4799da830cc7dcc4f982b1c3ae21e"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "9c8c9d0ff5a0c7dbca556a896f241179f29e234f618b608883c90d1740ee1022"
 metafile = true
@@ -533,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "9cd7aebfa1d877a948b03236cfe8712479facfb7235b4126b899ef0042924233"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
 
 [[files]]
@@ -646,6 +681,11 @@ hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "580c5756d28a70d6851e8429c5f83f7945dce7fab9e01ef8c08374490d4fd467"
 metafile = true
@@ -708,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "761951579e472b25df134a45301ba5f3ee300afae2e7af1a00c2030dad26a55d"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "0494ad0007184098bceae5b891ce54ee17df6a43886b77fe047725fba8c722a3"
 metafile = true
 
 [[files]]
@@ -816,6 +861,11 @@ hash = "2fbb567ed29a27a717a22461ef0868d17963ced0af6ab836c3025faae5b374e1"
 metafile = true
 
 [[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
@@ -868,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-redstone.pw.toml"
 hash = "247f506108f7d7fb875e4353377e56b5a3081dd9858586f786f51b89167e1bc0"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
