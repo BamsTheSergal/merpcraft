@@ -1,13 +1,9 @@
-name = "TrimsEffects"
-filename = "trimeffects-1.0.3-forge.jar"
+name = "TrimEffects"
+filename = "trimeffects.jar"
 side = "both"
+pin = true
 
 [download]
-hash-format = "sha1"
-hash = "b7b641cefeb3375d9fd0d1d7de97d5a4543ed28c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4791687
-project-id = 870275
+url = "https://github.com/BamsTheSergal/merpcraft/raw/main/trimeffects.jar"
+hash-format = "sha256"
+hash = "3b33c40b02878c9bf6a197b9b285095bd2fe6763e3e4fa1be9e4ba2ae3a8b90d"
