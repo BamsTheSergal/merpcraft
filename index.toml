@@ -796,11 +796,6 @@ hash = "761951579e472b25df134a45301ba5f3ee300afae2e7af1a00c2030dad26a55d"
 metafile = true
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "0494ad0007184098bceae5b891ce54ee17df6a43886b77fe047725fba8c722a3"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "2c9686c8857adeb31892b7689a4c68a2513b983a4eea8321475261b58ce449be"
 metafile = true
