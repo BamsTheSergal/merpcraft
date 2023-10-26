@@ -81,6 +81,11 @@ hash = "ea54aad061d317e52cbf8d637d9c25c6283cbde17505d56159fecdfd14e00436"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "d923b6a71a0c4abe91cac75198a4874f9a3d51535d642512e9358747070380fa"
+metafile = true
+
+[[files]]
 file = "mods/ato.pw.toml"
 hash = "b72a7dd48d5b011e5233cb075da0ef458a47cf8df6ca687245282065d68120c4"
 metafile = true
@@ -161,6 +166,11 @@ hash = "0d7674d3cce4e4f64a7fad8762201efa809c689f6b6059a142dc3bbf08f65985"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "6b2efdfea02bb82d8e1666971b0113940a6363ba93dd92f32b5ae2922e78fef3"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "6c1753a5ec1dd7509c36fab446e98413b5b5a409635086f88cea75ad579fd6e2"
 metafile = true
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "d82eb88a3cc12f69c07c4524f91a28473470817e14d2d4824ee4138c19fde3c7"
 metafile = true
 
 [[files]]
@@ -348,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/ender-io.pw.toml"
 hash = "2aef4eb54eff674d81dc81398324fc89ab3683fefb4bf6ca79d995f7c800ff85"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "98d56f19d311489359f641fcb43e01529c3144b45195d4771a928b87ecf180dd"
 metafile = true
 
 [[files]]
@@ -533,11 +553,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "b98185274c02a8ddc4e96059904a50ea1c58c4dda52978998c93754592b14e63"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "b8ccdb6c421792758f82d52605253fec9e3255ef4e19aa88c06bdaba95b84f32"
 metafile = true
 
 [[files]]
@@ -823,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "05b043b8f6094befc9f9065f36626c9e204a623eba6b64f62c1a78f6d84a0c49"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
 metafile = true
 
 [[files]]
