@@ -301,6 +301,11 @@ hash = "c32ad54d7b3875f326808bf3cf5cae41a132711fe84afc7bd9ccf703f3ecbd79"
 metafile = true
 
 [[files]]
+file = "mods/createutilities.pw.toml"
+hash = "8f1126dc9f98d78c5f2a57f721a61657c45bc69d26df3b80293bf7b9b9ea82a1"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "3e6e28663f7d805558ec0fdaf08ccf01719e1b37aed9b0a7493f467b437c0981"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "461beb4ee9154664470a4304d5540be929a3b76fde05a8f8c431ae3ac78402b2"
+metafile = true
+
+[[files]]
+file = "mods/daves-building-extended.pw.toml"
+hash = "672217613d12a12c3a891d2909c7d17c1700f3edb3f80589ab6790b78850d273"
 metafile = true
 
 [[files]]
