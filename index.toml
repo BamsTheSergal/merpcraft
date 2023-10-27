@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "edccbc972eebc20cfa046535dac259da852ada487b27d4da48fffddfac519cb3"
+hash = "87fa60b09f3b3146127fbd495bc77165a808d7871ef12d564bfe82d60dde10d7"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "a6e3a82cd308655e473973686bd0b375f37a0f12fd6546e1a6c02a619934b7e8"
+hash = "fd8a16a5802d4f48130060357963caaf7e450afe047675f16d32ef2714d00159"
 metafile = true
 
 [[files]]
@@ -573,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "fc9cc5417b0356f1449e43698ca00825a88b80442966340707313e5c7253c5c4"
 metafile = true
 
 [[files]]
@@ -772,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/pipez.pw.toml"
-hash = "6cd4b9d0f9213d696342e5f58a15b5b69bca6e484c9dd11c35a7a26af5d589b9"
+hash = "057ba0004e016105659c4eb7a70b8c95d7d57c916046a9b88e4dd9b11b595c38"
 metafile = true
 
 [[files]]
@@ -817,12 +822,17 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "8f13f00f8c9e1f75f6d1635ee26a125ae9efe7aafccac0b85b250347884d3925"
+hash = "bedfa6b038481f97cdf2b21b16e69dc13e1989eca2e297161cb8550b0000799f"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d1f324fd8a01a78198c1d439d82b778f90514575584c3877716f7343a8112f58"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "922c7fd290a30d0b0422b005ade1f518b9b4ffeb74ef3b85107cd0f2403545a4"
 metafile = true
 
 [[files]]
@@ -977,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "ebb0b9b87fbb1c2c144d4a3c47fe4132e0485881cfe16c732851dd400e3bdf99"
+hash = "f2c09150e959e4b0d303eecb4b703b4a74a33d07cefbacd9ca0ad480de19ca03"
 metafile = true
 
 [[files]]
