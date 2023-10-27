@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "869e8a2f50482932d229bcaeff5d641f7eef2ce6b79f6e71c3f8c278989ac84f"
+hash = "08d7ef6128ad76e42e29015033946527717a6b5007da179f861e4093a7940682"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/pipez.pw.toml"
-hash = "057ba0004e016105659c4eb7a70b8c95d7d57c916046a9b88e4dd9b11b595c38"
+hash = "81e740cac7c1cb57647480a7155ac90469a5bdaaadee58878a708e2790625e77"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "255e53f3608be33adad2f5d4efcabed3316090ee05f50d4ce4cd74f38f6faba8"
+hash = "b13f3544009f0d20cf4411c0aad457c33d7cda612824f63a3d961bad7d09f1ed"
 metafile = true
 
 [[files]]
