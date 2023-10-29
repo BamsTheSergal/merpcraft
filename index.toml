@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
-hash = "9412e6bece747a5b4795ac8742df3e272a6e51a5bba7fa97c7b0f4193ddaab33"
+hash = "e2ff0e13ee116c5e0bb75943b34d28655f9f795f50d1373df9f84a76a728e305"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "3c02e315e438a116750efe733795a377e3e363a32f683509d302caa1df722507"
+hash = "1ee3b887a1e084c3ddbb8f86a48a306135b177f01159720b1f8c564236fe0682"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "99dad9ae9fd4a14a59ab03a7a171b744fa5b8316e0f2cdd38cb03f40162b18f4"
+hash = "8bf1e708a6ef22a7dfbb3398cf63f8fe83a6d63b9d8c47533f669424dce3df91"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "69f29d52e12bd46f1a5a3282978461cba8860934f636d3ec9e49832a98646ee7"
+hash = "50a83b1b145631dfeb9ede3fd4cda2cfb2ca7d861e606d0bcafb960c3f7b19bd"
 metafile = true
 
 [[files]]
@@ -591,6 +591,11 @@ hash = "fc9cc5417b0356f1449e43698ca00825a88b80442966340707313e5c7253c5c4"
 metafile = true
 
 [[files]]
+file = "mods/laserio.pw.toml"
+hash = "53510f21e5be65c0a18cdd4eb536fca3d9b2bbebf4664356ed2e18b7a4a0c711"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "9c8c9d0ff5a0c7dbca556a896f241179f29e234f618b608883c90d1740ee1022"
 metafile = true
@@ -602,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "aef8c477a563c61528bd6651f204af2fd1aabfd0fdca3b44c70c729a3dd4a64a"
+hash = "15a56976a6251f464a1c12c58c52bdebb3513909e3fd7be1267e85f12a11aa84"
 metafile = true
 
 [[files]]
@@ -832,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "bedfa6b038481f97cdf2b21b16e69dc13e1989eca2e297161cb8550b0000799f"
+hash = "7c8f94ced176d1bece8e85b7acef696c5bbc701967c25a343e4cfb2a35a9efb1"
 metafile = true
 
 [[files]]
@@ -992,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "34d399e77433ff17c2c8d75fd81e0dc4b4c787848254a324af364f26b698c2f2"
+hash = "1760e7d38732ff6b5a92421be93c953a1448a481217864608cf2fb7baa17f910"
 metafile = true
 
 [[files]]
