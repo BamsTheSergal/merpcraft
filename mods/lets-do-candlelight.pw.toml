@@ -1,13 +1,13 @@
 name = "[Let's Do] Candlelight"
-filename = "letsdo-candlelight-forge-1.2.5.jar"
+filename = "letsdo-candlelight-forge-1.2.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a06501ff899b9365e2cb2b91fd89b4aab60f848"
+hash = "7257dd3ae5d4021f381d63e87e03f44363fbdea1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4813599
+file-id = 4819828
 project-id = 846962
