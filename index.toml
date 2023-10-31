@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "6c1753a5ec1dd7509c36fab446e98413b5b5a409635086f88cea75ad579fd6e2"
+hash = "495aede00b5661e9e0bb86082748bdf2e9832759f0d0366f6bbf9f7d22110333"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e3e64e8d4fb23d48107cdb1ee9189531e275b19ffd804839faf61efac0e6b704"
+hash = "07d58983d9a68af0c41ab46bbd8b44eeca6eb6d74c568e58800f22c16863530c"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/deep-aether.pw.toml"
-hash = "63e1e539fde693313983c872b946dc9dccd5d4700047829a8bc21a71ff6a16a7"
+hash = "36c2b4034c977620232551e1786b57aee0d13b0f0190027acda4c5bdaf9a3491"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "303e73c87c06bb931a01450bf2c4dae5c5b8d1c05f177a7b900c1cd3552c07f7"
+hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "631399761038e3021c244b4ba444139716e0214dd0fbd080eba7ba2a50765cac"
+hash = "a96874fe044e71c92f0e357b7fcadff7a20af112b6e98ce6909827dc868f2f27"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "9c8c9d0ff5a0c7dbca556a896f241179f29e234f618b608883c90d1740ee1022"
+hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b13f3544009f0d20cf4411c0aad457c33d7cda612824f63a3d961bad7d09f1ed"
+hash = "f3665c8a037698a1dac920a50b83c787eb6aa2b84fcba35eb693e7f144ca270c"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "1760e7d38732ff6b5a92421be93c953a1448a481217864608cf2fb7baa17f910"
+hash = "bd51746e0e6034e781f660aed9b86a5558e06f86c3bce9486dce9bfc983d97fe"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilight-forest-the-lost-blocks.pw.toml"
-hash = "da474fe7c3fb60b44efa85532f0c9d54d09f898635174217c623faf444bedf8a"
+hash = "f1d5527bc5ebeae7b3de5efd7a0e9c89b7dad909b8a1956cf20469516dafbf8f"
 metafile = true
 
 [[files]]
