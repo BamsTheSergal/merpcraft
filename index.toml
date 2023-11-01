@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ato.pw.toml"
-hash = "b72a7dd48d5b011e5233cb075da0ef458a47cf8df6ca687245282065d68120c4"
+hash = "b89b2d55d72f8c413e98dc952e12b8b7a4b55d58782c0d004931e17b2fabad7c"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "bd51746e0e6034e781f660aed9b86a5558e06f86c3bce9486dce9bfc983d97fe"
+hash = "aa6db66a9faa80d87b95b50051bfff4f10b36c3c122ea204962b0d7f1c1b5539"
 metafile = true
 
 [[files]]
@@ -1033,6 +1033,11 @@ metafile = true
 [[files]]
 file = "mods/twilight-forest-the-lost-blocks.pw.toml"
 hash = "f1d5527bc5ebeae7b3de5efd7a0e9c89b7dad909b8a1956cf20469516dafbf8f"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "ed8fcb0d5d997fbe3a16fd5c2a7f05687f47e6f020f13d6dba6d52f872302b24"
 metafile = true
 
 [[files]]
