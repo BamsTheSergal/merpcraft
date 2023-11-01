@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting+.pw.toml"
-hash = "c68fcf00bac44ca6015e8b0902c7220b950d2d39e15dc6c78ad285231c25aa5f"
+hash = "0a7b09112a042597ed53518a14c02c45d5ff30e3a4e3ba47640b274f6dd1be15"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "e765ca04a98eb1edc58e39f91f1717e643e31cd688201de886038776f44e93a7"
+hash = "35b45684f383e7a08343ff771389e7d0f0e7e8a9ea890d31dc3ad1c5d8706a80"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "fc9cc5417b0356f1449e43698ca00825a88b80442966340707313e5c7253c5c4"
+hash = "911264ca59a65f11131b707516450152de3ebf96ba71cd57efe93d8267d17151"
 metafile = true
 
 [[files]]
