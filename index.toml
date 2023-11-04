@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "762d199ab0258b4b5ceded25d8320fcc1cf35858db0daab87c08d8f77b4a4f2d"
+hash = "88a27a933fbbdcaf7d72e5f42ae74921bbe6221a80892074aa3864dfeee5251a"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilight-forest-the-lost-blocks.pw.toml"
-hash = "f1d5527bc5ebeae7b3de5efd7a0e9c89b7dad909b8a1956cf20469516dafbf8f"
+hash = "cbdeab8b10518ea8c03ad26fd7e834d64116ea34bed4a516dfeac7729a5388fd"
 metafile = true
 
 [[files]]
@@ -1042,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-grid.pw.toml"
-hash = "3cf1b61d941c4efe0e3e73c0500618ca07eef8a1609a9d1256a993e1a0a44476"
+hash = "33cf1fcc76a1050ce8acdb56a476d1822ecad778dc99453e5b03fb8ef60d1672"
 metafile = true
 
 [[files]]
