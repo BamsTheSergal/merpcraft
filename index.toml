@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "461beb4ee9154664470a4304d5540be929a3b76fde05a8f8c431ae3ac78402b2"
+hash = "1853fd16382c6d552b0dbd3d2ac304865360fa5993434a34d621ba8d3e3485a1"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "ac4ed689c2f330941f941aadcc91626d876b18e41324f4a19b4afd6db1ea1f1c"
+hash = "f4d407b0829996256b3bc9c918d002c873aaf7a8d34f6eea51a3059398ef92de"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "92d097fedbe3f14c9be312e1e2f1915c76c045ce039432f47f1a8ae01a19eb1d"
+hash = "78b926087436cd23fc457de097317d9175314aecc04776c3826137e1775cba2c"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "b35f0de146257ad7baf423ad9372ddd4b741ff88bd3e4c8c9b69f14c71cf6682"
+hash = "b5925e4dbe50574be29872a279b9a44f6348cd1aa175fc7a72cdde0069d2168c"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names.pw.toml"
-hash = "33adfcd1cd6d45af820c0ef49db6cdd9df309e349874e748c64eebc6e10aa30d"
+hash = "c135fa798476ebeb00ca0e57316f3374a721ce6d2d599d71ce80fdec43e4bf4c"
 metafile = true
 
 [[files]]
