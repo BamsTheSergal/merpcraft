@@ -87,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/ato.pw.toml"
-hash = "b89b2d55d72f8c413e98dc952e12b8b7a4b55d58782c0d004931e17b2fabad7c"
+hash = "01a0bd2de5a9eb726d35fedfcd6961a97e77c41eda29d4bc7881a2d0bf8dd81e"
 metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "23e29d3c28fe641a093808e8e539b3adebf08adcd8231d0d5191447d282690a9"
+hash = "1c22f5d40c061cfcd9c63a09fb97cc9f3c835e947eabaf91553d2342e9db6908"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
-hash = "82f28744002af1a87779f66a917565e795778fd04a05732367e6e1497d86e0d4"
+hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "88a27a933fbbdcaf7d72e5f42ae74921bbe6221a80892074aa3864dfeee5251a"
+hash = "306fb38fd7e9d93447b2ac3921378b6cbbc22778e4358e877b9c66fd6d0b0fb1"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1ee3b887a1e084c3ddbb8f86a48a306135b177f01159720b1f8c564236fe0682"
+hash = "1f3da72cc12e0ac51694d0eb8acad154340f2657ee0368fc9b151f3a0cfd0b90"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/laserio.pw.toml"
-hash = "53510f21e5be65c0a18cdd4eb536fca3d9b2bbebf4664356ed2e18b7a4a0c711"
+hash = "4205c8912564c477a8762eb1ffcabef42bcea54d9b50a9dcc7d2196d0e63ae29"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "c722e969d69652969a6a4449bf53bbf9622a00b0baf4fef72d00221ea8233129"
+hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e12c61b5f046c8bab7779052ade122cd971757433563c2302a81fa4882ad2240"
+hash = "292d36c08101d4dd836794c66528bc83530d4f609d7e4a1c9ade32deb18320b5"
 metafile = true
 
 [[files]]
