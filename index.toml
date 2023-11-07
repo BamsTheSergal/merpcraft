@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "63b67767a704a2774767fe1db80202b75ea1bdfb65bf93cfd6c75c615a44b05f"
+hash = "dfa47a4c04109789a5e14e1648b53e63bc50f87689708b8e40318e0ab408320e"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "2ad07685e37e9a141fc46446163c50b1aee2a08ca55e95b463a2c77f28bd112b"
+hash = "546d10c52ded211e5e3d739a8c6e0afa833bc7c915b798f70f4526691a5fb8a4"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "04116c45f04c2f2b29bea2979ba7b334de752adf984b953d6de14c2568f57034"
+hash = "41f822a10c09ba4db074a60971835dabb5641b51807ca2c7c8a47da17af63cff"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "922c7fd290a30d0b0422b005ade1f518b9b4ffeb74ef3b85107cd0f2403545a4"
+hash = "a0afbc792737b9ec6a620a79f5e911a67416122d3bef126b9acd0fac0a14d379"
 metafile = true
 
 [[files]]
