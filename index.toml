@@ -31,6 +31,11 @@ hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
 
 [[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "dff44d551b15215cb2ebfd4a41e99d460cd7020a5bd5881d1f9b6887b94470bd"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "87fa60b09f3b3146127fbd495bc77165a808d7871ef12d564bfe82d60dde10d7"
 metafile = true
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "dfa47a4c04109789a5e14e1648b53e63bc50f87689708b8e40318e0ab408320e"
+hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
 metafile = true
 
 [[files]]
@@ -192,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "306fb38fd7e9d93447b2ac3921378b6cbbc22778e4358e877b9c66fd6d0b0fb1"
+hash = "fed34839abb772374eebabce45cc8d0c8c4df100a26d52884e12ea757f7049dd"
 metafile = true
 
 [[files]]
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrastorage.pw.toml"
-hash = "5842ebaaff24ad6ad61c8b203a722576a75ba89aad22c0028c7c12239c58a2cc"
+hash = "e9cb9a2be7ce1cccf8c78518a96f241dcaad7cd7f33fd57a344e7f9e64c63c50"
 metafile = true
 
 [[files]]
@@ -547,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "f97e4b051b57c9a68bf79521d8685f803e1803d8e4e4394f164aec7a62afe4b4"
+hash = "e5b0c23c95e64566a351a0e3c9fe901aee08c730db6d0045c4d41583972a1573"
 metafile = true
 
 [[files]]
@@ -667,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "15a6cd44273473997d181ca71f6f403baaba50a0606a77a4618a7623bf986aff"
+hash = "d35f82df95be7b038e48f81c290854c19183420a81b8fa5d505c97e23439face"
 metafile = true
 
 [[files]]
@@ -842,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d1f324fd8a01a78198c1d439d82b778f90514575584c3877716f7343a8112f58"
+hash = "ad8d1a2e6133bc92b4e408a9135ab1c89096f0cd8eb754c28ca80f01127bd577"
 metafile = true
 
 [[files]]
@@ -933,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "9d0aaee3f6e0cfe7e7de44fdb75499a1acce81396ee7838eaaf19b9e63413d14"
 metafile = true
 
 [[files]]
