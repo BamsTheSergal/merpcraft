@@ -1,0 +1,13 @@
+name = "Aether: Lost Content Addon"
+filename = "lost_aether_content-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lr2r2Dpz/versions/vhrXJ6s6/lost_aether_content-1.20.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "44ef339b86924dfc99ba3e8574aaefef98f1a300"
+
+[update]
+[update.modrinth]
+mod-id = "lr2r2Dpz"
+version = "vhrXJ6s6"
