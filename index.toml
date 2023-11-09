@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-campfire.pw.toml"
-hash = "ac44881d4f1bed1cf2dc995af3d6ad9c3ff280efa6af9ccbaef0ef4d70b99304"
+hash = "4e993880adf25286cedefe9c941f3a5c5dca038910a33e2bda9f62ce9a34acfa"
 metafile = true
 
 [[files]]
