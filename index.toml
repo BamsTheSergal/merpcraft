@@ -56,6 +56,11 @@ hash = "c75636e54bd8b535ded951be0ae3fa5b6af91846a5915f008c3fc148143f4615"
 metafile = true
 
 [[files]]
+file = "mods/allthemodium.pw.toml"
+hash = "05200ef8bc0558f693f28d1c02dbecf7354c23e57e5170150b6c3a9daa711017"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "4f2e189a7666c586cd37854fc6932c213aed878353166a530d6f0edb0674848e"
 metafile = true
@@ -873,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "c5c96d97aff1c92b80517878ef2027d2123d5a50269fd8564d1d0071676cdb5e"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "493d90f8a2357351d53e72b27e70af82e05fae25e0f4496f540656b6517a1887"
 metafile = true
 
 [[files]]
