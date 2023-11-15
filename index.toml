@@ -16,6 +16,11 @@ hash = "dd2e2597c76e727f3f0a07d98939e1b0cacfc6bcd13668992b40e4288cc24977"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
+hash = "8959e560fb3c49ef11b4fe569d55ad306c99e716c48bf535bc5b5eb4ad84c0a9"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "fbb4644fe0733d7c9662931679559ad5bd6b09c616fec2e46c6aeb328cb053f9"
 metafile = true
@@ -487,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "0ae4f7b303a967a971ef24784e08ab1f859a6148c45d2950c72767849cda19cc"
+hash = "ba8611194b53a37c87f3531718f338b7f5275a84dc7d35730e660c9e7d5e680e"
 metafile = true
 
 [[files]]
@@ -722,17 +727,17 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "c4cb919e5ab5dcdfdc7e37ab4e027d5b5f574f5b99b830d219201000f6c8ff19"
+hash = "02804388e87b303cab66f88ba3a8a75852970e92f62cc5caa237030aec37bbf2"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "c81b48e9d8f5efbdec4f86fe1301a023a74264c803da3084df107ed10a8bccd7"
+hash = "090e8efb9d04a89281e4a646f4d280b07e9fed11a7b184a209899ee3301a7322"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "6da3ff453ed8e6d4eb2c4f7c9e76aef51a1c9e05ae73a4d374691e97d689988c"
+hash = "d5398c3eabe6d44bc7b98d0ad6ca930aa53736567ccd2773d4d9efe28a8099fd"
 metafile = true
 
 [[files]]
@@ -742,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
-hash = "829a5fc278dc6b5c08e9bd0abfbbf6551546962cb69a4f01071c34d617698d76"
+hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
 metafile = true
 
 [[files]]
@@ -907,12 +912,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a91e46f2f9a8553bd38d4f3a23a9b9342a69da814e270222f453d2e32b425585"
+hash = "6762cf99f7c484b3fd61c218959385708b309718ca89b25e0aa62d53f23f951e"
 metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "32e6bde81ad6f1e448aef3d4d1eb804880579e6f5879fd19b2d8fd68f1976896"
+hash = "20149bd7bb3c366d310d810dab1e44041dce20843bb43441880469b82ef756e5"
 metafile = true
 
 [[files]]
@@ -977,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "628ed92a4accd7d745041cf866449e01902de5bcc31a1b7b3dede498f159ae80"
+hash = "3b06470aec475a0208f7bf58cde725c7070016e0e3e5afa1d14a1018579112ec"
 metafile = true
 
 [[files]]
@@ -987,12 +992,12 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "b7afeb286736ae49851e90691299c79e989a68a2725c9a2c63b1602be60b7703"
+hash = "69c5e061e909cd434f23d2212ea6db6ab9d1cb7dbf3238948e1f871c3430f947"
 metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "5a33360c268b8280c03f127923031171c978103b98536794318203305deb28a0"
+hash = "d6acbdec54bad3470251a4e3fa81dc4143c1fcc4272f38d03e1bba3868a4e13a"
 metafile = true
 
 [[files]]
@@ -1097,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/welcome-to-meadow.pw.toml"
-hash = "0356042bef991a02fdc80cd9db98ef40323624bbbeef0f90d98c527a74b3d726"
+hash = "233fed0d01ebda827aeeab190a95094e7cb89e15de21ea34abd87da3b851ce56"
 metafile = true
 
 [[files]]
