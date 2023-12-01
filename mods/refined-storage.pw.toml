@@ -3,11 +3,11 @@ filename = "refinedstorage-1.12.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/KDvYkUg3/versions/ZITLFjjf/refinedstorage-1.12.4.jar"
 hash-format = "sha1"
-hash = "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5"
-mode = "metadata:curseforge"
+hash = "014bf4de4975f6310d22a6ed06c6a7e1e0805641"
 
 [update]
-[update.curseforge]
-file-id = 4844585
-project-id = 243076
+[update.modrinth]
+mod-id = "KDvYkUg3"
+version = "ZITLFjjf"
