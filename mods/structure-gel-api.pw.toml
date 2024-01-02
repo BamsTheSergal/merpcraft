@@ -1,13 +1,13 @@
 name = "Structure Gel API"
-filename = "structure_gel-1.20.1-2.15.1.jar"
+filename = "structure_gel-1.20.1-2.16.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T8TGycIQ/versions/p2hBgWM7/structure_gel-1.20.1-2.15.1.jar"
+url = "https://cdn.modrinth.com/data/T8TGycIQ/versions/Wcqj3c1P/structure_gel-1.20.1-2.16.0.jar"
 hash-format = "sha1"
-hash = "3a5cc923bb25426f978c3542560a10eaa0e77fdc"
+hash = "cf2225192e43316ab2ce99368eb7c59b4b08ac58"
 
 [update]
 [update.modrinth]
 mod-id = "T8TGycIQ"
-version = "p2hBgWM7"
+version = "Wcqj3c1P"

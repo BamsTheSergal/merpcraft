@@ -1,13 +1,13 @@
 name = "[BPOP]Botany Pots Ore Planting"
-filename = "BotanyPotsOrePlanting-Forge-7.4.0+1.20.1.jar"
+filename = "BotanyPotsOrePlanting-Forge-7.9.0+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "232caef35bcb37fcdced48c52e025e44e6555aad"
+hash = "7474e0a567373d9a82fed9962427eac372eb3809"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4705550
+file-id = 5001845
 project-id = 872868
