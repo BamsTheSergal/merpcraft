@@ -1,0 +1,13 @@
+name = "Leaky - Farm leak detection[Forge/Fabric]"
+filename = "leaky-1.20.1-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a185ead0ab1c9f38bf3a20d452556a0173d5c9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4765805
+project-id = 856906
