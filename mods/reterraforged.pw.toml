@@ -1,0 +1,9 @@
+name = "Reterraforged"
+filename = "reterraforged.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/BamsTheSergal/merpcraft/raw/main/reterraforged.jar"
+hash-format = "sha256"
+hash = "3aae58fc0d6e7402f1207ee7e2a164a7413a8153e34a99b037c1dc9036549a89"
