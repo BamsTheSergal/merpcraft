@@ -361,6 +361,11 @@ hash = "f99d86319f474bc75585c6cba1927f868846f91ab87ce8dcfe936b3462412296"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "814db4ad681a0bf1fb6979caf675132a5703ee347aa30a77d07339343890bd03"
 metafile = true
