@@ -1,13 +1,13 @@
 name = "Artifacts"
-filename = "artifacts-forge-9.2.0.jar"
+filename = "artifacts-forge-9.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "da5336e6e2eed267dde38cedc4aad4bd1849a5d1"
+hash = "dbce7d191a047c6c77f240d1467a7d196171659a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4859576
+file-id = 5089743
 project-id = 312353

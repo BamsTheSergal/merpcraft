@@ -1,13 +1,13 @@
 name = "Maturi Delight"
-filename = "maturidelight-1.20.1-2.1.0.jar"
+filename = "maturidelight-1.20.1-3.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "95a5fd6b8aa3c329dfb5d3f9309497a5f3326077"
+hash = "165cd0cb21b1b6276d290e56440d663e245b266e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4676200
+file-id = 5092519
 project-id = 850610
