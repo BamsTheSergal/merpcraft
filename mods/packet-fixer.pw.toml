@@ -1,13 +1,13 @@
 name = "Packet Fixer"
-filename = "PacketFixer-forge-1.20.1-1.2.7.jar"
+filename = "PacketFixer-forge-1.20.1-1.2.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c7m1mi73/versions/BkukMVPb/PacketFixer-forge-1.20.1-1.2.7.jar"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/lUcsxCsq/PacketFixer-forge-1.20.1-1.2.8.jar"
 hash-format = "sha1"
-hash = "d13c57c76bdc3bb208fc3069621c9bf67fb0e1ca"
+hash = "593bf2c206cfcd83c8b466227f70114ba27a4f48"
 
 [update]
 [update.modrinth]
 mod-id = "c7m1mi73"
-version = "BkukMVPb"
+version = "lUcsxCsq"
