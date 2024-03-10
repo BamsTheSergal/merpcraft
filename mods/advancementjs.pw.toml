@@ -1,0 +1,13 @@
+name = "AdvancementJS"
+filename = "AdvJS-2001forge-2.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d1a09fe5c3a25b8aedd42a6b6453fd8ac9c21f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5158956
+project-id = 962731
