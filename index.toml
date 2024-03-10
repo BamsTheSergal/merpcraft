@@ -31,6 +31,11 @@ hash = "39ccc21f796e7daa6b464c411e9433ac9a5407235d9ca8e7e2390999c289cdc4"
 metafile = true
 
 [[files]]
+file = "mods/advancementjs.pw.toml"
+hash = "9123f54078e61a49ff650422a66be84e4a1bcd702efe53817f3a4d05162ecc82"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
@@ -347,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]
@@ -701,6 +706,21 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-botany-pots.pw.toml"
+hash = "1923934e70e6c3ea996b9f263ba35fa95a2249aa366ab4d3d64d5a0d4793f54e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "432015ce62e9acfd7f305102eb0aa8423e3d424f06193c333b71dc21f1fba29e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "76c4c12144ad4ecc7da739abf0a6e9d8c935eea6d7b98a78de1a9e638f39bcf9"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "1c579abc5087a9fefa92484a76a2c9a7bef46ba14fb431d452aad806be15fd3a"
 metafile = true
@@ -857,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b1fe23077d4bbd8ca306ed1a5728db4b62c7e1d9674cf3bc5ee332e02b6ad750"
+hash = "c1e6b361a613acd4f2d3bcdfb36dc34c3440f250805ab61a2c6c531bcfd9408f"
 metafile = true
 
 [[files]]
@@ -1012,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9570fa1a57a134789d7fa28bb1ade9f48291bc1736be276d08e2b2f4436317f4"
+hash = "2a84e928a90765f74ed498d685aef958071e215f409f7792b44e58a03f439a88"
 metafile = true
 
 [[files]]
