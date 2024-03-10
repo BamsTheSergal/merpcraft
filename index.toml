@@ -151,6 +151,11 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
+file = "mods/block-swap.pw.toml"
+hash = "cbdde4e2be7598ab012108b4a08b087cf17c4f5d6253d15c4f31d05b74db6cc3"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
 metafile = true
@@ -763,11 +768,6 @@ metafile = true
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "01a492b04d121e0f24c5879f994e1ed4dfb588e82b98337a67673665465f923d"
-metafile = true
-
-[[files]]
-file = "mods/lootjs.pw.toml"
-hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
 metafile = true
 
 [[files]]
