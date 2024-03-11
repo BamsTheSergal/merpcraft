@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/blockswap/block_swap.json5"
-hash = "a4a498698535db3e4557526101b397d886985c6eca8bd7448ee8c734c61076c0"
+file = "config/blockswap/block_swap.pw.toml"
+hash = "02fe65d2f7445131a0793585a2d9b32db0c1608fc688979bf2e85331f7442141"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
