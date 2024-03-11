@@ -1,0 +1,9 @@
+name = "block_swap"
+filename = "block_swap.json5"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/BamsTheSergal/merpcraft/raw/main/block_swap.json5"
+hash-format = "sha256"
+hash = "a4a498698535db3e4557526101b397d886985c6eca8bd7448ee8c734c61076c0"
