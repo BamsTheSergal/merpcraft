@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/blockswap/block_swap.json5"
+hash = "a4a498698535db3e4557526101b397d886985c6eca8bd7448ee8c734c61076c0"
+
+[[files]]
 file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
 hash = "d15fab4df075ae00f9d90966adf22f56688d44f186c7aefd5be112b60e3983ad"
 metafile = true
@@ -387,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
+hash = "1c9f55f52c45ad320162df72e74e92c65ed7ddb30de5a4c27217aae81822865f"
 metafile = true
 
 [[files]]
@@ -772,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "5d7a31aa81c640cb1456f22fb3a22a0b7737680c83c4a655ccdaf813e98e20ce"
+hash = "3bcfda341c87453a4162761cb9120d0475aa28c574788d236f00994948db08e5"
 metafile = true
 
 [[files]]
