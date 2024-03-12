@@ -3,11 +3,11 @@ filename = "amendments-1.20-1.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6iTJugQR/versions/KFYmNhKL/amendments-1.20-1.1.10.jar"
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/y5UCiOzn/amendments-1.20-1.1.10.jar"
 hash-format = "sha1"
-hash = "f3fe25fde9bc829bba9324bf1b714e6c6858147a"
+hash = "a60639c3fd1d2435d1896885516c12700a64e3cf"
 
 [update]
 [update.modrinth]
 mod-id = "6iTJugQR"
-version = "KFYmNhKL"
+version = "y5UCiOzn"
