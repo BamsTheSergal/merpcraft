@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "524bd758b0843d8eab9e84aeee49116ab3dee5491d834c77c36ee27c8c0015e4"
+hash = "a32e14a7be246885844a892f930856bcdae08a90cef5ca7ee8628291ca751d7e"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "356a2a6a79691b197dcf299040fcf762c28824c8a3c6ff3e35e398d8f86b2562"
+hash = "ea524efc9a14ddcc97dd06331db45702aec49247dcea3087550e812a0375af10"
 metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "bb3fb2f18c7b7329cdde575aac35807b8692e114dfb419b3648a24dcf8bb0348"
+hash = "3d900f5a6f8ff7b26fc072a3d5dafa25fa8f5cf0ee260298551abe27a3c3a71d"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f811a2cd9287e9db3eb6445c591bda8bcb68673f7b86cb6245774e3a44323880"
+hash = "cac734d930b38ce4b9519d73159f9cbede99476fdfce6160de6a186b6f81b402"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "614377abeda3242e50d35cfaffbb90eed6ad08313486f771a50f3341cfc7a55f"
+hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "1d352edff770c1b110a159eaee26401caec30bcb0c3381f7171f4344f555923a"
+hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "888e8d5378d59da32a2717cd1adb62eca8ac93d3dedc81d4359e0a9f68d7d307"
+hash = "1d5de133df38587dc693d84758117dccd848eb8d9c4746cb69a38c073aca9a4f"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cee898d32345cd77a55ed7bb305d9d2f82b069ccaa22eb40bbbd15e9789575fe"
+hash = "e71354f6eb664a8bc3f904bcc24b0043421cdd88c60bebc3a9547db40ad2357f"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/polylib.pw.toml"
-hash = "fddb460180a419e8e9fa292c465c7d41f6826e4c25e4be7a016d580390bf225c"
+hash = "78ce48adf5232f815201ca092f7845b15e3612d457d66fd851ebe1004c341060"
 metafile = true
 
 [[files]]
@@ -1042,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d72916797f427031777ab9a44e080f4fb10e1263eab2237af010b3e8e10ad226"
+hash = "2fcc8bd77b4f22de3f062c15b27ac910a22f9add808631d2a3db4b71e9f7aa94"
 metafile = true
 
 [[files]]
@@ -1072,17 +1072,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "1f9a4cbe4a28f73c3fcb8a32a650677115baa383c126a9e99862dd208b999d6e"
+hash = "14899d27f95f22f5772601baa3debf9e030bf771110fd8638e0a77f40565f3f1"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "89d8bc4aa3b83b64653f375e969b0540654498101c64a92b688e37d23dd18dc0"
+hash = "d4185903dbac42b3e3749f7ad86d1de8f85d4a6bb57e84fd6810e2223938bb16"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "cd643914932ccd31bd6913671b17742274663f279e879da73141f5c6a5612b7d"
+hash = "28ffe4f27efd54ed9f2764db96151fa5bdbcad7d8f85b797aafd98f5d007dac7"
 metafile = true
 
 [[files]]
@@ -1162,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "2304691507c6b1ff3a8c4bbd59fd9674d335bffa724ea950a08d1919ff5a74f6"
+hash = "fb6666d67779979c4c94bfab235ee92f6353cb6a1706c920d8ec4fb848a65a8e"
 metafile = true
 
 [[files]]
