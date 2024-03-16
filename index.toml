@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a7203ba63f63a8e940da35f36ac47f0fdea343b9f2b60a6be0f503afb7c4d1c2"
+hash = "8820426c4fe307fde61c56679fc91736bbda50e331bfd64f0f718e3b172afacd"
 metafile = true
 
 [[files]]
@@ -283,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "3e11bd1f1874982a61ce097a48bffd9d28d679db0eb79344880840aa322cc69c"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "46adefd7fdff6a79a57d79a47073d55a28961be55408cebe7dbe16b2cadb9111"
 metafile = true
 
 [[files]]
@@ -362,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -672,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "1d5de133df38587dc693d84758117dccd848eb8d9c4746cb69a38c073aca9a4f"
+hash = "1d71247c860cc4caabc969bca182eb3325db0729886a6491e8f805880f45b2c8"
 metafile = true
 
 [[files]]
@@ -1202,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
-hash = "2b177f2173dd387e239a54480282c57ea27b92d4fa5239e7a7038c13bffe1843"
+hash = "2323934094e13f5a7dba14eb47c414cc85f3a78b862d62eb8f758b2fc7f65a2a"
 metafile = true
 
 [[files]]
@@ -1232,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/welcome-to-meadow.pw.toml"
-hash = "891208849664b1236efa38eb6eef00e69c14cc11d11585dfeee8ab35f2c56a7e"
+hash = "7b1ae1e3591debd632ba228326c202ee505b03dd3de2a2b6a12658264216cea7"
 metafile = true
 
 [[files]]
