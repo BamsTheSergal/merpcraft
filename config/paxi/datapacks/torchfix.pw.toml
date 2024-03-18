@@ -1,0 +1,7 @@
+name = "torchfix"
+filename = "Torchfix.zip"
+
+[download]
+url = "https://github.com/BamsTheSergal/merpcraft/raw/main/Torchfix.zip"
+hash-format = "sha256"
+hash = "cefe61450f859c652917c4b62c98d27d37084c715ddbe0d2c1ea1d8030a335e7"
