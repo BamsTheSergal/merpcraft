@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "fa2942e445d619c7dbb9d34895fa1c58a9d3cbd192fec3bbd136bd439ab323a1"
+hash = "342c4150cf2a14b09785131d8c44fb99c4c63e7c1e8e4cd0198f8ae923262515"
 metafile = true
 
 [[files]]
@@ -481,6 +481,11 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "3faa4e34ac83c334be4c02659df763c52d1c893f9cb85abb46db06eb3c792fe2"
+metafile = true
+
+[[files]]
 file = "mods/experienced_crops.pw.toml"
 hash = "f3735a5160997f629fa06b103ff779296cb5bc9b9749f0fb3bceb15ed2580ba5"
 metafile = true
@@ -612,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "ca3df6df3210338bbd18683eb2064ccd7cfa4e19e0c64f8ec0d93a09e888e4e9"
+hash = "941bbc3b5a23b8392d88b534a7fa1973273c3daa6f8fb70bfe4d4645423a2159"
 metafile = true
 
 [[files]]
@@ -1001,6 +1006,11 @@ hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "46ea9007d32c553d56bfa1bbd8f070a99f1c82eeb8dbd326dc07df9512df41e3"
 metafile = true
@@ -1072,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "1093006aebedae75d0bb2182af2796e80d7ad0d842d78f7466215db2274e1efa"
+hash = "af04c5aa37c9d2b94992930d70333ffe1cb2bec3e35cec431a2611164d23061c"
 metafile = true
 
 [[files]]
@@ -1097,17 +1107,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "14899d27f95f22f5772601baa3debf9e030bf771110fd8638e0a77f40565f3f1"
+hash = "23661f3668182ddd1793565ee2e55e57f5644021f863e5481909c09d742c105f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d4185903dbac42b3e3749f7ad86d1de8f85d4a6bb57e84fd6810e2223938bb16"
+hash = "a68dba1c0402252605702f4665da9b8c9604d838576de708d65d2cd2869b263a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "28ffe4f27efd54ed9f2764db96151fa5bdbcad7d8f85b797aafd98f5d007dac7"
+hash = "153e71cf817c66a1f0ad9074383368ee528919bc4ea0c4e785288a61d9b60ae4"
 metafile = true
 
 [[files]]
@@ -1287,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "e87876a65f9dc1f8bf27c8fff5a8bb6e29b6e698da2998efa2a22cdd92c74655"
+hash = "eb89c7d6a1c7eeba70189cf2ad777b4ed5afba7ed2c6a40fb34eb3fad71419c8"
 metafile = true
 
 [[files]]
@@ -1302,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "378752ead54fa58f11f2e231070bfa76d8a310cc3651d231cd861dc8a3303ff6"
+hash = "a3adfd6be62c3540b81cb117a71d68d4021ae7d4a85486599eb5028cd8692b7d"
 metafile = true
 
 [[files]]
@@ -1328,4 +1338,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
 metafile = true
