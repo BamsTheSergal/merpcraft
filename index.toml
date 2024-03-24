@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/beachparty.pw.toml"
-hash = "17529cbda67411401bb4c809246f8d1b2cc1c6f15ef538d99a499fc2732147ca"
+hash = "f363821616eb9702e662e499aa79892c5b91d51b38fc88a786ab25bd7de44025"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "d961f4ea86fd8cb9ff5413869c17d63554d4b33c0be9fe5644dc402dbb28b733"
+hash = "5140f31eb89561edb7250136f74b801f738d77ac64910b65951ce561f79f4d41"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "0c9bddfb4fde72ad3f49e60c25937ab078b4771e8aa360cbb2fc39727f4755d1"
+hash = "bc9c72c9e7580585dafa413ad247a3590b44cbc7380f6b50f8e2e8bda7cfb5ce"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "3faa4e34ac83c334be4c02659df763c52d1c893f9cb85abb46db06eb3c792fe2"
+hash = "a856d1364cb04d23f0b4258ad46c5483cdd878ace2c8409c7f20b803f2159f5d"
 metafile = true
 
 [[files]]
@@ -777,12 +777,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "bb26d8b2eafcce6c489f986738cd36fcf1ef8c766b268b2b853b582170b29b44"
+hash = "4692d2c380d803c6b63cc216ee0eb4f9d75f8414948fc500b4a0c55f7b013fce"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "1ac9dfaa692a391a5da03594d8e7088479d095132b0d7e1fdb811dadfa7c2a24"
+hash = "ddbecbe7567940323b30396b7ce3f55df7d444ef1f0893bea9beec2ed8ca9f0a"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "712ac79bb4012b906355269fa28ac92c1cae6bf37b43a4dcd1320f98a323b4b2"
+hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
 metafile = true
 
 [[files]]
@@ -1007,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
+hash = "7f7e22ca326e1ddabd7344cd18d71a4099de775b47e9ee75d4be58a64f2c3af4"
 metafile = true
 
 [[files]]
@@ -1112,12 +1112,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a68dba1c0402252605702f4665da9b8c9604d838576de708d65d2cd2869b263a"
+hash = "7b6c59b1a6411b599cc95793bc7a9ef2fda525ef30d185afe08c6fee99031920"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "153e71cf817c66a1f0ad9074383368ee528919bc4ea0c4e785288a61d9b60ae4"
+hash = "01acb575ce485767f66c7cb76386f9903b6eae1c8faba66a88cbc27f8db3d732"
 metafile = true
 
 [[files]]
@@ -1257,7 +1257,7 @@ metafile = true
 
 [[files]]
 file = "mods/vinery.pw.toml"
-hash = "a7f60ee1c247b37a76f4e9f722288915024af77cb61f85e64a0099d04ea85d88"
+hash = "70a6f936e8cb98b5416b3e363f3427f641c3e5096e7a325385276e85da8e1e0b"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/welcome-to-meadow.pw.toml"
-hash = "7b1ae1e3591debd632ba228326c202ee505b03dd3de2a2b6a12658264216cea7"
+hash = "d9bb00162c410aaeb02ad53fa5f64bb1c994b269efa90779d7866be7612f4b5e"
 metafile = true
 
 [[files]]
