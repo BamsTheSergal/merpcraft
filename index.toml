@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "2fc3ac96bc1b967d8e32bbfec494b3b2f41abe6d5bd9538e639741fb8f9c5ace"
+hash = "b5022cf3e1f37e208e93c59e30de796971029f21fb365237cdc35d3e87951989"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
+hash = "7346bb2b446c0bc308577952dd66695f663e085b51b3105ae1192d0e71e98c29"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ead7066d6c446bdfed73aca9617f070b8a034545f8d30125228cd4fc42e44e70"
+hash = "daa66b29e6634b2993fb34cc5075b031e58da3b8a7bc39b672638b72a21ae9ba"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9a16e3e71a28a909f1c82ecfe340e3603fa19556bcae3cf72496b9b4f9f98867"
+hash = "9fba607c5fa295ca8f9dd850df194dfe5502c67a4d9d2dd861a2a2f63b5a4e17"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "32b728cc406b3e2a4969d05f09cab752cfb9b0e20dd0a13a14080d21134188a4"
+hash = "3f95e503056d65c9f7d7f810dc4332fd6c1665e9fd6fea1d5362edf090bfff11"
 metafile = true
 
 [[files]]
@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "a72b4cce6c4c370313326aa7f838bc4d12e9c207fd2a2b6acc2a9683b8ee6641"
+hash = "a4ff567d52fe55984cc0cb93430a4c8f01dc00b14fbd6e25a077dbd179f534fb"
 metafile = true
 
 [[files]]
@@ -1117,17 +1117,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "23661f3668182ddd1793565ee2e55e57f5644021f863e5481909c09d742c105f"
+hash = "3e7b8ddab50ecf7bbb463731e8ab4d640855842a30ded446ef68cb60f0911388"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7b6c59b1a6411b599cc95793bc7a9ef2fda525ef30d185afe08c6fee99031920"
+hash = "e71130c2bd6455b80dc39a9af3c988c5a21295f107803b0266188babdfc5ad75"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "01acb575ce485767f66c7cb76386f9903b6eae1c8faba66a88cbc27f8db3d732"
+hash = "56a75fd58837164d8042d9be7807a3a20e33b9bd29d19c0810526336d16087c2"
 metafile = true
 
 [[files]]
@@ -1207,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "7871a68feea648acbee87c17e90871728df4c7b7989f8621f83fddbc4e539dba"
+hash = "3ca1d1a0fa5a4a50f9de788851fbeeb71c22aa0a5c863c836a3460a98a663352"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/welcome-to-meadow.pw.toml"
-hash = "d9bb00162c410aaeb02ad53fa5f64bb1c994b269efa90779d7866be7612f4b5e"
+hash = "ab33fd9d2392d138115261686d5e24bf21a96388a39604756d1252235ee956af"
 metafile = true
 
 [[files]]
