@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "1137ff9221efcd830244669be73113756304ef7664e70acdbda9779a123de7aa"
+hash = "55718843ff732c9931946e8b7307894f1d73fa70091274933eb81c3c7c1c1293"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
+hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "daa66b29e6634b2993fb34cc5075b031e58da3b8a7bc39b672638b72a21ae9ba"
+hash = "3366d16a4ef50f81ce9c0d6a4bf89ab3d43282174e3c2275f9c3f7b78d44d4ca"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9fba607c5fa295ca8f9dd850df194dfe5502c67a4d9d2dd861a2a2f63b5a4e17"
+hash = "ce326c490bd6c70d1daf1af604820b41ec92f4057e9ca255659f3b6091331df5"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
+hash = "d925d89ab420bc00b3c3c2b5db81a00b94ba309759f5c34fa308f681e5d02496"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
-hash = "85e28940a804765e7156aa982c624d6d4b3c8eb8ea5e3ebd4dde31000014dff1"
+hash = "6a4d8d9a62db312f95917fea0c86be910ee3fe950bd65657494ca965566de74d"
 metafile = true
 
 [[files]]
@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
+hash = "aab948eb94089a87e5734523b7a1dd9b3eec1d6e03ae944214ed2b2644b7a4ed"
 metafile = true
 
 [[files]]
@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
+hash = "799778cc92c55c71a87b656c36e91db943629352868a63bb45962aa6cad04c14"
 metafile = true
 
 [[files]]
@@ -1207,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "3ca1d1a0fa5a4a50f9de788851fbeeb71c22aa0a5c863c836a3460a98a663352"
+hash = "dac5646ebc7f1a3831e9ce6b7ad83453dde9e8b917f02d2274fb42f6459a1485"
 metafile = true
 
 [[files]]
@@ -1352,5 +1352,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
+hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
