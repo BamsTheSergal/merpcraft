@@ -456,6 +456,11 @@ hash = "bc9c72c9e7580585dafa413ad247a3590b44cbc7380f6b50f8e2e8bda7cfb5ce"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "2423502ac14234635177138909605f6fe8fb6a7e0fedba4f32fd673415310d37"
+metafile = true
+
+[[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/farsight.pw.toml"
 hash = "895a16cc23b52ea6f851727c04199deae43eedb5bc9d6d121d20bf7f3a97c70a"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "96b4f076531d93845801037766543ef06c7c07cb631f7f24db06c2a3296bfaa0"
 metafile = true
 
 [[files]]
