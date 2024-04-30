@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "adff4fc2089879e896e04bb6d6ac4907a0b8a9bed0608ead7d9bfe3b5f2d3313"
+hash = "801f5f50e8f6022f58e6ff62198958a81924ef6058f52ae6d115952311c5ac6d"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "b5022cf3e1f37e208e93c59e30de796971029f21fb365237cdc35d3e87951989"
+hash = "6cca4a76e07f81b28d8a564c4e2c18a67403e5c7a136f9aafe17df55e77ffe68"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c27311a0a8d99024092a7526c7c0c7f0ed0cfbadbb18bd58ed57fcfb653dc28b"
+hash = "0714edca30b6f466444a25754c861cd4c4738ba7346f49ab15b0f0b30781fb12"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
+hash = "f4d41750be3841d73640ba8f4da3ec8e2e8baef4afef7ecb55dd4afd10588d34"
 metafile = true
 
 [[files]]
@@ -1117,17 +1117,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3e7b8ddab50ecf7bbb463731e8ab4d640855842a30ded446ef68cb60f0911388"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e71130c2bd6455b80dc39a9af3c988c5a21295f107803b0266188babdfc5ad75"
+hash = "46a595e8297691a2265ebe21f594125f39fe96482ab6916e748cbdb7f66a6457"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "56a75fd58837164d8042d9be7807a3a20e33b9bd29d19c0810526336d16087c2"
+hash = "aa150ab8f1b60f03049a99fa908bc25165279992380c43439e82943380ab4938"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/vinery.pw.toml"
-hash = "a4e41310af593e1fb23cc3f2a17dbbf6f26c6a25fbb58cbd631bc5c4915e6d1a"
+hash = "52a1942138bc3685109d477557c0a24038d787b953dd1585d85eaf60b9246699"
 metafile = true
 
 [[files]]
