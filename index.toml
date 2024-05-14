@@ -1094,21 +1094,6 @@ hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "a98b07ee08d2563048783d80c1ef7d64831d12577f7a91973090a9b8d4e7c9da"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
-metafile = true
-
-[[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "1a1bfe0776cb92961f84add606ac5ef2cf0cea183f1cf8ba168feb29520142a2"
 metafile = true
