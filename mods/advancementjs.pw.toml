@@ -1,13 +1,13 @@
 name = "AdvancementJS"
-filename = "AdvJS-2001forge-2.9.3-hotfix.jar"
+filename = "AdvJS-2001forge-2.9.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "091fb2e1f87b1be58d3337610fa761320eb3c47d"
+hash = "c481aee737693129d81682c916faacaa872773d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5326238
+file-id = 5344734
 project-id = 962731

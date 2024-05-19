@@ -1,13 +1,13 @@
-name = "Just A Battery [FORGE]"
-filename = "JustABattery-47.1.0.jar"
+name = "Just A Battery [NEOFORGE/FORGE]"
+filename = "JustABattery-47.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8060909dbab1c00e86c639f2487324b799e02a4e"
+hash = "b2f1213da50566fcd08332cd813c53dceea572b3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4764834
+file-id = 5350128
 project-id = 509638
