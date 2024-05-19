@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancementjs.pw.toml"
-hash = "850648659cdf773ba5d700d8679d2897d662c6c888b73ecca885f05d61f9d1b2"
+hash = "c94c6f3983dab5b740109352ee2201d81202fe1003ed72c832e9512f9a9d373e"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/allthemodium.pw.toml"
-hash = "e2af4f855d32367aa2e6d88586b5f521886b7bbb3a9983d46be4d0caed78d17a"
+hash = "0e1c19aaeea200b384cf348f3681597fe1ec95572232ae725e34c8055c7d4c97"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "dce3b892fa69c8d700be2daad7d8a542efc3c798b2ec92ab2ada64c818de47a0"
+hash = "51c257b5b510225bad482be70fddf0dfa8f334700fd4e0ad60756458247aeb8b"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ato.pw.toml"
-hash = "01a0bd2de5a9eb726d35fedfcd6961a97e77c41eda29d4bc7881a2d0bf8dd81e"
+hash = "d64d02d240575e58a4b2ee8794a60f67f053d1fd675dfbd280b2bb8c3438fb93"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "75cf2da28d189ca7f084e16172718540bc7345a790ca04aa6e88edf5adb854ee"
+hash = "f51d262460e27b091a778cdeb5b54ad50c4cfdcf73ccf2a11bdcfd3f3f1f5f10"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "2423502ac14234635177138909605f6fe8fb6a7e0fedba4f32fd673415310d37"
+hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "f4072fa34f5089d9d5bedda848e5926d5b36f378908de01ffb38469968c927c2"
+hash = "a2888c614afd7ad2e06e8b6e5a1d2d8fc18e950b0c3855ae6adb459eb3778a30"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/justabattery.pw.toml"
-hash = "d8acfba9d501b333dfa271f4541a24924083faca627b30f9aa998a15c53b6a38"
+hash = "ae377c249c3aa84bbe9499f08c988f6dd0eb2a89ab1fdb8268b4afd030447c5b"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "b5925e4dbe50574be29872a279b9a44f6348cd1aa175fc7a72cdde0069d2168c"
+hash = "d05fa9b51d6f853ab901d6c091b089a4b0f4e6d46a0a71d2cf63307568d02004"
 metafile = true
 
 [[files]]
@@ -940,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b8898534d3d06c490b4663d205fdd979100f3ca4ccd51a09bca374652feda6bf"
+hash = "7b122f096c66f146c67d511152908bdb3cd85f21af86f556ac435d97c4cf2ffd"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/polylib.pw.toml"
-hash = "78287a685bb66b0b924ba9c6c13e6559233c829d754f7f62a0617d001c999db9"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
 
 [[files]]
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "06963c6fbcfb93a9dcae5f33e48f88d7424c06fcb29343218605defd3dcec3b0"
+hash = "e513f146124930d8d2c9ae3c192fb399129efa16bb844140124c5b8da6ff8558"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "25a7dff7d7337e0532a55b99b50ff5c829ecf1ac6467eebcf5ba9362c2099898"
+hash = "d68e3dec94d4da1500d1bdfa4901507d86165ab8ccd6ece218636ebab86b43bc"
 metafile = true
 
 [[files]]
@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/tofucraftreload.pw.toml"
-hash = "b59995707f234d5196fda307a2cd1656a044fc10a3a9aa4d0cf9e838313c6b32"
+hash = "705d9a1bb94db3dfe55e38102011b0f56881de696fa0b1e88bafc6de3d2cc133"
 metafile = true
 
 [[files]]
