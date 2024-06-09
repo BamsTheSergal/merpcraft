@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "0b30fe9bdec7e569401744085e56e20103048cb54efd08f2b245653c3335e371"
+hash = "4e13a4dbac012c222c98472af9e37a789441dbcd40d73c87f1be7888cb905e5f"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a2888c614afd7ad2e06e8b6e5a1d2d8fc18e950b0c3855ae6adb459eb3778a30"
+hash = "7de0f48f0ab30917c637c1a8a4853802578942a051f5616a6848b5045960c57f"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "876a23752fc3809574538692891f332fbc51beed58a00d440eb4005dc5a1fe4a"
+hash = "d7baccbbd440b1651c909cd867ba657049620e29f770941439ac6fb105aa10f3"
 metafile = true
 
 [[files]]
@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "7b1192ecd2cf1486cac111b51dc85645569be302d7a0e2d8d409fd71ccf207e1"
+hash = "fb2852ba6ddcc326e27cbd7e094d4a482b8e459cfdf6c6d72dbe8f3e8d329169"
 metafile = true
 
 [[files]]
@@ -1322,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/vinery.pw.toml"
-hash = "382b27b9cfa2403674edb2b6182a8c6865cc5ceccad367aad8c616c9baa59c64"
+hash = "5784ae183a18f5181e85df026d4f156a6b54548397073462e5600fcb676a01eb"
 metafile = true
 
 [[files]]
@@ -1332,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/welcome-to-meadow.pw.toml"
-hash = "62ad497b5dd376432c800e205cae7f8e8275589f6436d888768d729e7ce223ed"
+hash = "92f62cdcc2cd85c6a019bdf2a28e429d028c8d06084038339f125b0f4fb423e6"
 metafile = true
 
 [[files]]
