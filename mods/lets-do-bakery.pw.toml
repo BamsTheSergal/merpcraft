@@ -1,13 +1,13 @@
 name = "[Let's Do] Bakery"
-filename = "letsdo-bakery-forge-1.1.11.jar"
+filename = "letsdo-bakery-forge-1.1.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a172775dae1e90033d90bf57a654c43454e18a0"
+hash = "7520ae7e96c12ae24d2386e9b04064018385a089"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5394678
+file-id = 5528402
 project-id = 886559
