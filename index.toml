@@ -131,6 +131,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/bagus-lib.pw.toml"
+hash = "07ec722f0c025f2fe39015187dbd9f64b757ae1a8180d4b8d701e545980f71dc"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
